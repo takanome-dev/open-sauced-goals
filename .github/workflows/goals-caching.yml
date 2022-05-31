@@ -10,6 +10,7 @@ on:
       - unlabeled
   schedule:
     - cron: 42 1 * * 2,5
+  workflow_dispatch:
 
 jobs:
   sauce-grab:
@@ -19,7 +20,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: open-sauced/actions/goals-caching@main
+#       - uses: open-sauced/actions/goals-caching@main
+      - uses: takanome-dev/actions/goals-caching@goals-caching
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LOGIN: ${{ github.repository_owner }}
