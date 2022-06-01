@@ -1,27 +1,26 @@
 [
   {
     "full_name": "amplication/amplication",
-    "stargazers_count": 7353,
-    "open_issues_count": 313,
+    "stargazers_count": 7362,
+    "open_issues_count": 314,
     "forks_count": 419
   },
-  null,
   {
     "full_name": "open-sauced/hot",
     "stargazers_count": 74,
-    "open_issues_count": 19,
-    "forks_count": 26
+    "open_issues_count": 20,
+    "forks_count": 27
   },
   {
     "full_name": "opencrvs/opencrvs-core",
     "stargazers_count": 54,
-    "open_issues_count": 424,
+    "open_issues_count": 416,
     "forks_count": 27
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 666,
+    "stargazers_count": 667,
     "open_issues_count": 16,
-    "forks_count": 273
+    "forks_count": 275
   }
 ]
