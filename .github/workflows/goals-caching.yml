@@ -21,7 +21,7 @@ jobs:
       - uses: actions/checkout@v3
 
 #       - uses: open-sauced/actions/goals-caching@main
-      - uses: takanome-dev/actions/goals-caching@goals-caching
+      - uses: takanome-dev/actions/goals-caching@test-cache
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LOGIN: ${{ github.repository_owner }}
