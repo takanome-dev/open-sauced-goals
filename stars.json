@@ -1,31 +1,38 @@
 [
   {
+    "id": 234739976,
+    "full_name": "medusajs/medusa",
+    "stargazers_count": 13014,
+    "open_issues_count": 164,
+    "forks_count": 709
+  },
+  {
     "id": 110216866,
     "full_name": "dailydotdev/daily",
-    "stargazers_count": 7734,
+    "stargazers_count": 7772,
     "open_issues_count": 30,
     "forks_count": 291
   },
   {
     "id": 413918947,
     "full_name": "vercel/turborepo",
-    "stargazers_count": 8400,
-    "open_issues_count": 190,
-    "forks_count": 452
+    "stargazers_count": 8420,
+    "open_issues_count": 192,
+    "forks_count": 458
   },
   {
     "id": 112507086,
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 99984,
+    "stargazers_count": 100387,
     "open_issues_count": 0,
-    "forks_count": 10470
+    "forks_count": 10503
   },
   {
     "id": 400827853,
     "full_name": "aykutkardas/regexlearn.com",
-    "stargazers_count": 1925,
+    "stargazers_count": 1931,
     "open_issues_count": 13,
-    "forks_count": 156
+    "forks_count": 157
   },
   {
     "id": 495135480,
@@ -37,23 +44,23 @@
   {
     "id": 52710065,
     "full_name": "all-contributors/all-contributors",
-    "stargazers_count": 6371,
+    "stargazers_count": 6374,
     "open_issues_count": 94,
-    "forks_count": 1570
+    "forks_count": 1571
   },
   {
     "id": 479399618,
     "full_name": "MizouziE/energy-prices-api",
     "stargazers_count": 30,
     "open_issues_count": 13,
-    "forks_count": 28
+    "forks_count": 29
   },
   {
     "id": 491911983,
     "full_name": "rzashakeri/beautify-github-profile",
-    "stargazers_count": 7981,
+    "stargazers_count": 8001,
     "open_issues_count": 0,
-    "forks_count": 292
+    "forks_count": 294
   },
   {
     "id": 463940068,
@@ -66,50 +73,50 @@
     "id": 340763234,
     "full_name": "BeccaLyria/BeccaLyria.github.io",
     "stargazers_count": 3,
-    "open_issues_count": 5,
+    "open_issues_count": 7,
     "forks_count": 1
   },
   {
     "id": 74791366,
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 69747,
+    "stargazers_count": 69873,
     "open_issues_count": 64,
-    "forks_count": 9389
+    "forks_count": 9414
   },
   {
     "id": 6498492,
     "full_name": "airbnb/javascript",
-    "stargazers_count": 124882,
+    "stargazers_count": 124944,
     "open_issues_count": 140,
-    "forks_count": 23950
+    "forks_count": 23967
   },
   {
     "id": 75867720,
     "full_name": "wesbos/JavaScript30",
-    "stargazers_count": 20256,
+    "stargazers_count": 20314,
     "open_issues_count": 33,
-    "forks_count": 25551
+    "forks_count": 25619
   },
   {
     "id": 44424200,
     "full_name": "vasanthk/how-web-works",
-    "stargazers_count": 7629,
+    "stargazers_count": 7836,
     "open_issues_count": 5,
-    "forks_count": 879
+    "forks_count": 898
   },
   {
     "id": 103633984,
     "full_name": "goldbergyoni/nodebestpractices",
-    "stargazers_count": 79269,
+    "stargazers_count": 79323,
     "open_issues_count": 27,
-    "forks_count": 8195
+    "forks_count": 8203
   },
   {
     "id": 281975310,
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 21249,
-    "open_issues_count": 11887,
-    "forks_count": 1972
+    "stargazers_count": 21488,
+    "open_issues_count": 11955,
+    "forks_count": 1994
   },
   {
     "id": 121319603,
@@ -123,14 +130,14 @@
     "full_name": "wesbos/Advanced-React",
     "stargazers_count": 3430,
     "open_issues_count": 26,
-    "forks_count": 2353
+    "forks_count": 2352
   },
   {
     "id": 378519197,
     "full_name": "harblaith7/React-Testing-Library-Net-Ninja",
-    "stargazers_count": 155,
+    "stargazers_count": 158,
     "open_issues_count": 4,
-    "forks_count": 269
+    "forks_count": 271
   },
   {
     "id": 419320923,
