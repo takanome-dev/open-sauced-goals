@@ -16,35 +16,35 @@
   {
     "id": 234739976,
     "full_name": "medusajs/medusa",
-    "stargazers_count": 13314,
-    "open_issues_count": 169,
-    "forks_count": 758
+    "stargazers_count": 13329,
+    "open_issues_count": 174,
+    "forks_count": 763
   },
   {
     "id": 110216866,
     "full_name": "dailydotdev/daily",
-    "stargazers_count": 8052,
-    "open_issues_count": 29,
-    "forks_count": 296
+    "stargazers_count": 8071,
+    "open_issues_count": 30,
+    "forks_count": 298
   },
   {
     "id": 413918947,
     "full_name": "vercel/turborepo",
-    "stargazers_count": 8743,
-    "open_issues_count": 213,
-    "forks_count": 512
+    "stargazers_count": 8779,
+    "open_issues_count": 212,
+    "forks_count": 516
   },
   {
     "id": 112507086,
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 101279,
+    "stargazers_count": 101349,
     "open_issues_count": 0,
-    "forks_count": 10585
+    "forks_count": 10587
   },
   {
     "id": 400827853,
     "full_name": "aykutkardas/regexlearn.com",
-    "stargazers_count": 1975,
+    "stargazers_count": 1985,
     "open_issues_count": 12,
     "forks_count": 159
   },
@@ -52,29 +52,29 @@
     "id": 495135480,
     "full_name": "TAKANOME-DEV/assign-to-me-action",
     "stargazers_count": 2,
-    "open_issues_count": 11,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "id": 52710065,
     "full_name": "all-contributors/all-contributors",
-    "stargazers_count": 6416,
+    "stargazers_count": 6426,
     "open_issues_count": 95,
-    "forks_count": 1574
+    "forks_count": 1577
   },
   {
     "id": 479399618,
     "full_name": "MizouziE/energy-prices-api",
     "stargazers_count": 30,
-    "open_issues_count": 21,
-    "forks_count": 35
+    "open_issues_count": 16,
+    "forks_count": 34
   },
   {
     "id": 491911983,
     "full_name": "rzashakeri/beautify-github-profile",
-    "stargazers_count": 8267,
+    "stargazers_count": 8304,
     "open_issues_count": 0,
-    "forks_count": 313
+    "forks_count": 319
   },
   {
     "id": 463940068,
@@ -87,50 +87,50 @@
     "id": 340763234,
     "full_name": "BeccaLyria/BeccaLyria.github.io",
     "stargazers_count": 3,
-    "open_issues_count": 5,
+    "open_issues_count": 4,
     "forks_count": 2
   },
   {
     "id": 74791366,
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 70479,
+    "stargazers_count": 70535,
     "open_issues_count": 65,
-    "forks_count": 9507
+    "forks_count": 9519
   },
   {
     "id": 6498492,
     "full_name": "airbnb/javascript",
-    "stargazers_count": 125415,
-    "open_issues_count": 143,
-    "forks_count": 24028
+    "stargazers_count": 125479,
+    "open_issues_count": 145,
+    "forks_count": 24032
   },
   {
     "id": 75867720,
     "full_name": "wesbos/JavaScript30",
-    "stargazers_count": 20515,
+    "stargazers_count": 20538,
     "open_issues_count": 33,
-    "forks_count": 26237
+    "forks_count": 26290
   },
   {
     "id": 44424200,
     "full_name": "vasanthk/how-web-works",
-    "stargazers_count": 8308,
+    "stargazers_count": 8325,
     "open_issues_count": 5,
-    "forks_count": 934
+    "forks_count": 939
   },
   {
     "id": 103633984,
     "full_name": "goldbergyoni/nodebestpractices",
-    "stargazers_count": 79724,
+    "stargazers_count": 79762,
     "open_issues_count": 28,
     "forks_count": 8237
   },
   {
     "id": 281975310,
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 22626,
-    "open_issues_count": 12835,
-    "forks_count": 2140
+    "stargazers_count": 22707,
+    "open_issues_count": 12934,
+    "forks_count": 2152
   },
   {
     "id": 121319603,
@@ -142,21 +142,21 @@
   {
     "id": 99754954,
     "full_name": "wesbos/Advanced-React",
-    "stargazers_count": 3441,
+    "stargazers_count": 3440,
     "open_issues_count": 26,
-    "forks_count": 2368
+    "forks_count": 2367
   },
   {
     "id": 378519197,
     "full_name": "harblaith7/React-Testing-Library-Net-Ninja",
-    "stargazers_count": 165,
+    "stargazers_count": 166,
     "open_issues_count": 4,
-    "forks_count": 286
+    "forks_count": 287
   },
   {
     "id": 419320923,
     "full_name": "bradtraversy/node-api-proxy-server",
-    "stargazers_count": 205,
+    "stargazers_count": 207,
     "open_issues_count": 0,
     "forks_count": 75
   }
