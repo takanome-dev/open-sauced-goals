@@ -2,43 +2,43 @@
   {
     "id": 293860197,
     "full_name": "lowlighter/metrics",
-    "stargazers_count": 8178,
-    "open_issues_count": 15,
-    "forks_count": 899
+    "stargazers_count": 8212,
+    "open_issues_count": 14,
+    "forks_count": 908
   },
   {
     "id": 326281780,
     "full_name": "Gictorbit/illustratorCClinux",
-    "stargazers_count": 580,
+    "stargazers_count": 582,
     "open_issues_count": 25,
-    "forks_count": 76
+    "forks_count": 77
   },
   {
     "id": 240308298,
     "full_name": "Gictorbit/photoshopCClinux",
-    "stargazers_count": 3557,
+    "stargazers_count": 3559,
     "open_issues_count": 73,
-    "forks_count": 271
+    "forks_count": 273
   },
   {
     "id": 71359796,
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 761,
+    "stargazers_count": 763,
     "open_issues_count": 18,
-    "forks_count": 364
+    "forks_count": 368
   },
   {
     "id": 525105056,
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 9105,
+    "stargazers_count": 9499,
     "open_issues_count": 2,
-    "forks_count": 567
+    "forks_count": 606
   },
   {
     "id": 426820139,
     "full_name": "open-sauced/hot",
-    "stargazers_count": 126,
-    "open_issues_count": 31,
+    "stargazers_count": 130,
+    "open_issues_count": 28,
     "forks_count": 59
   },
   {
@@ -58,36 +58,36 @@
   {
     "id": 234739976,
     "full_name": "medusajs/medusa",
-    "stargazers_count": 13570,
-    "open_issues_count": 175,
-    "forks_count": 795
+    "stargazers_count": 13611,
+    "open_issues_count": 179,
+    "forks_count": 803
   },
   {
     "id": 110216866,
     "full_name": "dailydotdev/daily",
-    "stargazers_count": 8255,
+    "stargazers_count": 8310,
     "open_issues_count": 29,
-    "forks_count": 301
+    "forks_count": 302
   },
   {
     "id": 413918947,
     "full_name": "vercel/turborepo",
-    "stargazers_count": 9031,
-    "open_issues_count": 225,
-    "forks_count": 538
+    "stargazers_count": 9089,
+    "open_issues_count": 215,
+    "forks_count": 547
   },
   {
     "id": 112507086,
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 101909,
+    "stargazers_count": 102009,
     "open_issues_count": 0,
-    "forks_count": 10641
+    "forks_count": 10653
   },
   {
     "id": 400827853,
     "full_name": "aykutkardas/regexlearn.com",
-    "stargazers_count": 2019,
-    "open_issues_count": 16,
+    "stargazers_count": 2025,
+    "open_issues_count": 15,
     "forks_count": 163
   },
   {
@@ -100,23 +100,23 @@
   {
     "id": 52710065,
     "full_name": "all-contributors/all-contributors",
-    "stargazers_count": 6488,
-    "open_issues_count": 95,
-    "forks_count": 1588
+    "stargazers_count": 6506,
+    "open_issues_count": 94,
+    "forks_count": 1589
   },
   {
     "id": 479399618,
-    "full_name": "MizouziE/energy-prices-api",
+    "full_name": "Energy-Price-News-API/energy-prices-api",
     "stargazers_count": 30,
     "open_issues_count": 16,
-    "forks_count": 36
+    "forks_count": 37
   },
   {
     "id": 491911983,
     "full_name": "rzashakeri/beautify-github-profile",
-    "stargazers_count": 8419,
+    "stargazers_count": 8439,
     "open_issues_count": 0,
-    "forks_count": 324
+    "forks_count": 323
   },
   {
     "id": 463940068,
@@ -135,44 +135,44 @@
   {
     "id": 74791366,
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 71552,
+    "stargazers_count": 71716,
     "open_issues_count": 63,
-    "forks_count": 9643
+    "forks_count": 9676
   },
   {
     "id": 6498492,
     "full_name": "airbnb/javascript",
-    "stargazers_count": 126695,
+    "stargazers_count": 126797,
     "open_issues_count": 146,
-    "forks_count": 24179
+    "forks_count": 24202
   },
   {
     "id": 75867720,
     "full_name": "wesbos/JavaScript30",
-    "stargazers_count": 20721,
-    "open_issues_count": 34,
-    "forks_count": 26682
+    "stargazers_count": 20765,
+    "open_issues_count": 33,
+    "forks_count": 26753
   },
   {
     "id": 44424200,
     "full_name": "vasanthk/how-web-works",
-    "stargazers_count": 8544,
+    "stargazers_count": 8614,
     "open_issues_count": 5,
-    "forks_count": 960
+    "forks_count": 961
   },
   {
     "id": 103633984,
     "full_name": "goldbergyoni/nodebestpractices",
-    "stargazers_count": 81031,
-    "open_issues_count": 29,
-    "forks_count": 8348
+    "stargazers_count": 81155,
+    "open_issues_count": 30,
+    "forks_count": 8363
   },
   {
     "id": 281975310,
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 23434,
-    "open_issues_count": 13529,
-    "forks_count": 2249
+    "stargazers_count": 23558,
+    "open_issues_count": 13652,
+    "forks_count": 2262
   },
   {
     "id": 121319603,
@@ -186,20 +186,20 @@
     "full_name": "wesbos/Advanced-React",
     "stargazers_count": 3441,
     "open_issues_count": 26,
-    "forks_count": 2378
+    "forks_count": 2380
   },
   {
     "id": 378519197,
     "full_name": "harblaith7/React-Testing-Library-Net-Ninja",
-    "stargazers_count": 171,
+    "stargazers_count": 173,
     "open_issues_count": 4,
-    "forks_count": 295
+    "forks_count": 296
   },
   {
     "id": 419320923,
     "full_name": "bradtraversy/node-api-proxy-server",
     "stargazers_count": 209,
     "open_issues_count": 0,
-    "forks_count": 76
+    "forks_count": 77
   }
 ]
