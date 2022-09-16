@@ -2,9 +2,9 @@
   {
     "id": 532466680,
     "full_name": "TechSquidTV/Shoutify",
-    "stargazers_count": 120,
-    "open_issues_count": 7,
-    "forks_count": 10
+    "stargazers_count": 122,
+    "open_issues_count": 8,
+    "forks_count": 11
   },
   {
     "id": 528144647,
@@ -16,16 +16,16 @@
   {
     "id": 327089870,
     "full_name": "payloadcms/payload",
-    "stargazers_count": 7384,
-    "open_issues_count": 7,
+    "stargazers_count": 7390,
+    "open_issues_count": 9,
     "forks_count": 299
   },
   {
     "id": 293860197,
     "full_name": "lowlighter/metrics",
-    "stargazers_count": 8329,
+    "stargazers_count": 8332,
     "open_issues_count": 16,
-    "forks_count": 930
+    "forks_count": 931
   },
   {
     "id": 326281780,
@@ -37,7 +37,7 @@
   {
     "id": 240308298,
     "full_name": "Gictorbit/photoshopCClinux",
-    "stargazers_count": 3573,
+    "stargazers_count": 3575,
     "open_issues_count": 74,
     "forks_count": 273
   },
@@ -51,9 +51,9 @@
   {
     "id": 525105056,
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 10403,
-    "open_issues_count": 2,
-    "forks_count": 679
+    "stargazers_count": 10424,
+    "open_issues_count": 3,
+    "forks_count": 681
   },
   {
     "id": 426820139,
@@ -79,35 +79,35 @@
   {
     "id": 234739976,
     "full_name": "medusajs/medusa",
-    "stargazers_count": 13766,
+    "stargazers_count": 13774,
     "open_issues_count": 171,
     "forks_count": 828
   },
   {
     "id": 110216866,
     "full_name": "dailydotdev/daily",
-    "stargazers_count": 8407,
-    "open_issues_count": 30,
-    "forks_count": 310
+    "stargazers_count": 8412,
+    "open_issues_count": 31,
+    "forks_count": 311
   },
   {
     "id": 413918947,
     "full_name": "vercel/turborepo",
-    "stargazers_count": 9347,
-    "open_issues_count": 219,
-    "forks_count": 589
+    "stargazers_count": 9366,
+    "open_issues_count": 220,
+    "forks_count": 595
   },
   {
     "id": 112507086,
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 102844,
+    "stargazers_count": 102874,
     "open_issues_count": 0,
-    "forks_count": 10704
+    "forks_count": 10708
   },
   {
     "id": 400827853,
     "full_name": "aykutkardas/regexlearn.com",
-    "stargazers_count": 2053,
+    "stargazers_count": 2054,
     "open_issues_count": 17,
     "forks_count": 168
   },
@@ -121,9 +121,9 @@
   {
     "id": 52710065,
     "full_name": "all-contributors/all-contributors",
-    "stargazers_count": 6545,
-    "open_issues_count": 66,
-    "forks_count": 1604
+    "stargazers_count": 6547,
+    "open_issues_count": 65,
+    "forks_count": 1605
   },
   {
     "id": 479399618,
@@ -135,9 +135,9 @@
   {
     "id": 491911983,
     "full_name": "rzashakeri/beautify-github-profile",
-    "stargazers_count": 8531,
+    "stargazers_count": 8538,
     "open_issues_count": 0,
-    "forks_count": 331
+    "forks_count": 332
   },
   {
     "id": 463940068,
@@ -150,50 +150,50 @@
     "id": 340763234,
     "full_name": "BeccaLyria/BeccaLyria.github.io",
     "stargazers_count": 3,
-    "open_issues_count": 5,
+    "open_issues_count": 7,
     "forks_count": 2
   },
   {
     "id": 74791366,
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 72692,
+    "stargazers_count": 72719,
     "open_issues_count": 64,
-    "forks_count": 9807
+    "forks_count": 9812
   },
   {
     "id": 6498492,
     "full_name": "airbnb/javascript",
-    "stargazers_count": 127173,
+    "stargazers_count": 127192,
     "open_issues_count": 148,
-    "forks_count": 24256
+    "forks_count": 24257
   },
   {
     "id": 75867720,
     "full_name": "wesbos/JavaScript30",
-    "stargazers_count": 21001,
+    "stargazers_count": 21008,
     "open_issues_count": 33,
-    "forks_count": 27127
+    "forks_count": 27151
   },
   {
     "id": 44424200,
     "full_name": "vasanthk/how-web-works",
-    "stargazers_count": 9400,
+    "stargazers_count": 9418,
     "open_issues_count": 5,
-    "forks_count": 1052
+    "forks_count": 1057
   },
   {
     "id": 103633984,
     "full_name": "goldbergyoni/nodebestpractices",
-    "stargazers_count": 81567,
+    "stargazers_count": 81584,
     "open_issues_count": 30,
-    "forks_count": 8454
+    "forks_count": 8457
   },
   {
     "id": 281975310,
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 23975,
-    "open_issues_count": 14275,
-    "forks_count": 2331
+    "stargazers_count": 24038,
+    "open_issues_count": 14297,
+    "forks_count": 2337
   },
   {
     "id": 121319603,
