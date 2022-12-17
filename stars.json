@@ -16,7 +16,7 @@
   {
     "id": 538663825,
     "full_name": "zenorocha/react-email",
-    "stargazers_count": 1816,
+    "stargazers_count": 1821,
     "open_issues_count": 33,
     "forks_count": 40
   },
@@ -25,21 +25,21 @@
     "full_name": "Eugeny/tabby",
     "stargazers_count": 41509,
     "open_issues_count": 1186,
-    "forks_count": 2541
+    "forks_count": 2542
   },
   {
     "id": 873328,
     "full_name": "getsentry/sentry",
-    "stargazers_count": 32833,
-    "open_issues_count": 684,
+    "stargazers_count": 32836,
+    "open_issues_count": 681,
     "forks_count": 3673
   },
   {
     "id": 52630616,
     "full_name": "apollographql/apollo-client",
-    "stargazers_count": 18311,
-    "open_issues_count": 641,
-    "forks_count": 2503
+    "stargazers_count": 18313,
+    "open_issues_count": 640,
+    "forks_count": 2504
   },
   {
     "id": 45247496,
@@ -51,9 +51,9 @@
   {
     "id": 20929025,
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 86919,
-    "open_issues_count": 5935,
-    "forks_count": 11277
+    "stargazers_count": 86926,
+    "open_issues_count": 5938,
+    "forks_count": 11278
   },
   {
     "id": 464827989,
@@ -65,28 +65,28 @@
   {
     "id": 235901813,
     "full_name": "PostHog/posthog",
-    "stargazers_count": 10198,
+    "stargazers_count": 10199,
     "open_issues_count": 1391,
     "forks_count": 568
   },
   {
     "id": 527335176,
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 1269,
+    "stargazers_count": 1273,
     "open_issues_count": 7,
     "forks_count": 76
   },
   {
     "id": 80945428,
     "full_name": "nestjs/nest",
-    "stargazers_count": 52915,
+    "stargazers_count": 52920,
     "open_issues_count": 98,
-    "forks_count": 6292
+    "forks_count": 6290
   },
   {
     "id": 453717720,
     "full_name": "AykutSarac/jsoncrack.com",
-    "stargazers_count": 20375,
+    "stargazers_count": 20379,
     "open_issues_count": 50,
     "forks_count": 1008
   },
@@ -100,14 +100,14 @@
   {
     "id": 121380371,
     "full_name": "thedevs-network/kutt",
-    "stargazers_count": 6670,
+    "stargazers_count": 6669,
     "open_issues_count": 150,
     "forks_count": 806
   },
   {
     "id": 372240402,
     "full_name": "alan2207/bulletproof-react",
-    "stargazers_count": 15613,
+    "stargazers_count": 15615,
     "open_issues_count": 34,
     "forks_count": 1343
   },
@@ -121,16 +121,16 @@
   {
     "id": 162279822,
     "full_name": "agalwood/Motrix",
-    "stargazers_count": 34844,
-    "open_issues_count": 625,
-    "forks_count": 3978
+    "stargazers_count": 34850,
+    "open_issues_count": 624,
+    "forks_count": 3979
   },
   {
     "id": 26682105,
     "full_name": "darkreader/darkreader",
-    "stargazers_count": 15581,
-    "open_issues_count": 686,
-    "forks_count": 2035
+    "stargazers_count": 15586,
+    "open_issues_count": 689,
+    "forks_count": 2036
   },
   {
     "id": 102689445,
@@ -142,65 +142,65 @@
   {
     "id": 245704608,
     "full_name": "colinhacks/zod",
-    "stargazers_count": 15587,
-    "open_issues_count": 148,
-    "forks_count": 546
+    "stargazers_count": 15606,
+    "open_issues_count": 151,
+    "forks_count": 547
   },
   {
     "id": 214587193,
     "full_name": "supabase/supabase",
-    "stargazers_count": 42606,
-    "open_issues_count": 336,
-    "forks_count": 2697
+    "stargazers_count": 42623,
+    "open_issues_count": 337,
+    "forks_count": 2698
   },
   {
     "id": 400215964,
     "full_name": "novuhq/novu",
-    "stargazers_count": 14612,
-    "open_issues_count": 150,
+    "stargazers_count": 14617,
+    "open_issues_count": 149,
     "forks_count": 937
   },
   {
     "id": 483406511,
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 5109,
-    "open_issues_count": 47,
+    "stargazers_count": 5115,
+    "open_issues_count": 46,
     "forks_count": 105
   },
   {
     "id": 163883279,
     "full_name": "nektos/act",
-    "stargazers_count": 32865,
+    "stargazers_count": 32879,
     "open_issues_count": 81,
     "forks_count": 829
   },
   {
     "id": 533087958,
     "full_name": "terrastruct/d2",
-    "stargazers_count": 8078,
+    "stargazers_count": 8094,
     "open_issues_count": 133,
     "forks_count": 117
   },
   {
     "id": 565755421,
     "full_name": "openblocks-dev/openblocks",
-    "stargazers_count": 3734,
-    "open_issues_count": 59,
-    "forks_count": 109
+    "stargazers_count": 3736,
+    "open_issues_count": 60,
+    "forks_count": 110
   },
   {
     "id": 54346799,
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 220138,
+    "stargazers_count": 220169,
     "open_issues_count": 97,
-    "forks_count": 25199
+    "forks_count": 25203
   },
   {
     "id": 132750724,
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 179369,
+    "stargazers_count": 179422,
     "open_issues_count": 269,
-    "forks_count": 17268
+    "forks_count": 17276
   },
   {
     "id": 215390876,
