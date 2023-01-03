@@ -9,7 +9,7 @@
   {
     "id": 274495425,
     "full_name": "remotion-dev/remotion",
-    "stargazers_count": 14952,
+    "stargazers_count": 14954,
     "open_issues_count": 64,
     "forks_count": 676
   },
@@ -30,21 +30,21 @@
   {
     "id": 74293321,
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 64379,
+    "stargazers_count": 64387,
     "open_issues_count": 848,
     "forks_count": 3146
   },
   {
     "id": 119162419,
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 13442,
-    "open_issues_count": 174,
-    "forks_count": 1616
+    "stargazers_count": 13456,
+    "open_issues_count": 175,
+    "forks_count": 1617
   },
   {
     "id": 326404870,
     "full_name": "SigNoz/signoz",
-    "stargazers_count": 10887,
+    "stargazers_count": 10888,
     "open_issues_count": 426,
     "forks_count": 578
   },
@@ -58,29 +58,29 @@
   {
     "id": 207645083,
     "full_name": "TanStack/query",
-    "stargazers_count": 31996,
-    "open_issues_count": 61,
+    "stargazers_count": 32002,
+    "open_issues_count": 62,
     "forks_count": 1997
   },
   {
     "id": 191051391,
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 15496,
+    "stargazers_count": 15499,
     "open_issues_count": 440,
     "forks_count": 838
   },
   {
     "id": 257485422,
     "full_name": "vitejs/vite",
-    "stargazers_count": 51062,
-    "open_issues_count": 599,
+    "stargazers_count": 51068,
+    "open_issues_count": 603,
     "forks_count": 4425
   },
   {
     "id": 15062869,
     "full_name": "facebook/jest",
-    "stargazers_count": 41020,
-    "open_issues_count": 944,
+    "stargazers_count": 41022,
+    "open_issues_count": 948,
     "forks_count": 6203
   },
   {
@@ -93,16 +93,16 @@
   {
     "id": 221981891,
     "full_name": "microsoft/playwright",
-    "stargazers_count": 46125,
+    "stargazers_count": 46130,
     "open_issues_count": 705,
     "forks_count": 2252
   },
   {
     "id": 62607227,
     "full_name": "yangshun/tech-interview-handbook",
-    "stargazers_count": 84126,
+    "stargazers_count": 84137,
     "open_issues_count": 17,
-    "forks_count": 11074
+    "forks_count": 11075
   },
   {
     "id": 471166235,
@@ -114,35 +114,35 @@
   {
     "id": 501028599,
     "full_name": "open-sauced/insights",
-    "stargazers_count": 75,
+    "stargazers_count": 76,
     "open_issues_count": 93,
     "forks_count": 8
   },
   {
     "id": 538663825,
     "full_name": "zenorocha/react-email",
-    "stargazers_count": 2199,
-    "open_issues_count": 38,
+    "stargazers_count": 2203,
+    "open_issues_count": 39,
     "forks_count": 54
   },
   {
     "id": 77213120,
     "full_name": "Eugeny/tabby",
-    "stargazers_count": 41883,
+    "stargazers_count": 41889,
     "open_issues_count": 1198,
-    "forks_count": 2565
+    "forks_count": 2566
   },
   {
     "id": 873328,
     "full_name": "getsentry/sentry",
-    "stargazers_count": 32941,
-    "open_issues_count": 735,
+    "stargazers_count": 32943,
+    "open_issues_count": 733,
     "forks_count": 3680
   },
   {
     "id": 52630616,
     "full_name": "apollographql/apollo-client",
-    "stargazers_count": 18342,
+    "stargazers_count": 18341,
     "open_issues_count": 645,
     "forks_count": 2512
   },
@@ -156,42 +156,42 @@
   {
     "id": 20929025,
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 87252,
-    "open_issues_count": 6003,
-    "forks_count": 11315
+    "stargazers_count": 87259,
+    "open_issues_count": 6005,
+    "forks_count": 11316
   },
   {
     "id": 464827989,
     "full_name": "triggerdotdev/jsonhero-web",
-    "stargazers_count": 7160,
+    "stargazers_count": 7161,
     "open_issues_count": 50,
     "forks_count": 302
   },
   {
     "id": 235901813,
     "full_name": "PostHog/posthog",
-    "stargazers_count": 10277,
-    "open_issues_count": 1382,
+    "stargazers_count": 10278,
+    "open_issues_count": 1385,
     "forks_count": 575
   },
   {
     "id": 527335176,
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 1379,
+    "stargazers_count": 1383,
     "open_issues_count": 8,
     "forks_count": 85
   },
   {
     "id": 80945428,
     "full_name": "nestjs/nest",
-    "stargazers_count": 53247,
-    "open_issues_count": 108,
-    "forks_count": 6332
+    "stargazers_count": 53248,
+    "open_issues_count": 111,
+    "forks_count": 6334
   },
   {
     "id": 453717720,
     "full_name": "AykutSarac/jsoncrack.com",
-    "stargazers_count": 20552,
+    "stargazers_count": 20554,
     "open_issues_count": 42,
     "forks_count": 1021
   },
