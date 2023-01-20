@@ -1,57 +1,85 @@
 [
   {
+    "id": 480096607,
+    "full_name": "sofn-xyz/mailing",
+    "stargazers_count": 3208,
+    "open_issues_count": 31,
+    "forks_count": 56
+  },
+  {
+    "id": 572539936,
+    "full_name": "MambaCodes/BeAnonymous",
+    "stargazers_count": 29,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
+    "id": 42455934,
+    "full_name": "statelyai/xstate",
+    "stargazers_count": 22475,
+    "open_issues_count": 280,
+    "forks_count": 1056
+  },
+  {
+    "id": 317639685,
+    "full_name": "johnlindquist/kit",
+    "stargazers_count": 2321,
+    "open_issues_count": 41,
+    "forks_count": 71
+  },
+  {
     "id": 56363563,
     "full_name": "plouc/nivo",
-    "stargazers_count": 10956,
-    "open_issues_count": 121,
-    "forks_count": 890
+    "stargazers_count": 10979,
+    "open_issues_count": 119,
+    "forks_count": 894
   },
   {
     "id": 588602746,
     "full_name": "steven-tey/precedent",
-    "stargazers_count": 1377,
-    "open_issues_count": 3,
-    "forks_count": 50
+    "stargazers_count": 1544,
+    "open_issues_count": 5,
+    "forks_count": 64
   },
   {
     "id": 448599980,
     "full_name": "Njong392/Abbreve",
-    "stargazers_count": 61,
-    "open_issues_count": 9,
-    "forks_count": 70
+    "stargazers_count": 64,
+    "open_issues_count": 13,
+    "forks_count": 72
   },
   {
     "id": 348060227,
     "full_name": "withastro/astro",
-    "stargazers_count": 24759,
-    "open_issues_count": 119,
-    "forks_count": 1160
+    "stargazers_count": 24910,
+    "open_issues_count": 115,
+    "forks_count": 1172
   },
   {
     "id": 280557054,
     "full_name": "trpc/trpc",
-    "stargazers_count": 19418,
-    "open_issues_count": 76,
-    "forks_count": 627
+    "stargazers_count": 19673,
+    "open_issues_count": 81,
+    "forks_count": 639
   },
   {
     "id": 307489284,
     "full_name": "remix-run/remix",
-    "stargazers_count": 21673,
-    "open_issues_count": 386,
-    "forks_count": 1713
+    "stargazers_count": 21738,
+    "open_issues_count": 377,
+    "forks_count": 1718
   },
   {
     "id": 65750241,
     "full_name": "expo/expo",
-    "stargazers_count": 18706,
-    "open_issues_count": 518,
-    "forks_count": 3773
+    "stargazers_count": 18753,
+    "open_issues_count": 519,
+    "forks_count": 3784
   },
   {
     "id": 301851393,
     "full_name": "crusher-dev/crusher",
-    "stargazers_count": 407,
+    "stargazers_count": 413,
     "open_issues_count": 16,
     "forks_count": 23
   },
@@ -65,15 +93,15 @@
   {
     "id": 166780923,
     "full_name": "remirror/remirror",
-    "stargazers_count": 2040,
+    "stargazers_count": 2047,
     "open_issues_count": 118,
-    "forks_count": 191
+    "forks_count": 192
   },
   {
     "id": 558677103,
     "full_name": "avie-dev/spaceslounge",
-    "stargazers_count": 18,
-    "open_issues_count": 9,
+    "stargazers_count": 19,
+    "open_issues_count": 5,
     "forks_count": 18
   },
   {
@@ -100,14 +128,14 @@
   {
     "id": 274495425,
     "full_name": "remotion-dev/remotion",
-    "stargazers_count": 15160,
-    "open_issues_count": 70,
+    "stargazers_count": 15198,
+    "open_issues_count": 68,
     "forks_count": 687
   },
   {
     "id": 281412830,
     "full_name": "FeedHive/twitter-api-client",
-    "stargazers_count": 950,
+    "stargazers_count": 952,
     "open_issues_count": 17,
     "forks_count": 85
   },
@@ -121,23 +149,23 @@
   {
     "id": 74293321,
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 64812,
-    "open_issues_count": 865,
-    "forks_count": 3168
+    "stargazers_count": 64905,
+    "open_issues_count": 874,
+    "forks_count": 3175
   },
   {
     "id": 119162419,
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 14128,
+    "stargazers_count": 14181,
     "open_issues_count": 159,
-    "forks_count": 1666
+    "forks_count": 1675
   },
   {
     "id": 326404870,
     "full_name": "SigNoz/signoz",
-    "stargazers_count": 11110,
-    "open_issues_count": 471,
-    "forks_count": 599
+    "stargazers_count": 11147,
+    "open_issues_count": 483,
+    "forks_count": 602
   },
   {
     "id": 487454609,
@@ -149,64 +177,36 @@
   {
     "id": 207645083,
     "full_name": "TanStack/query",
-    "stargazers_count": 32361,
-    "open_issues_count": 52,
-    "forks_count": 2012
+    "stargazers_count": 32444,
+    "open_issues_count": 57,
+    "forks_count": 2021
   },
   {
     "id": 191051391,
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 15570,
-    "open_issues_count": 450,
-    "forks_count": 845
+    "stargazers_count": 15593,
+    "open_issues_count": 443,
+    "forks_count": 844
   },
   {
     "id": 257485422,
     "full_name": "vitejs/vite",
-    "stargazers_count": 51627,
-    "open_issues_count": 604,
-    "forks_count": 4481
+    "stargazers_count": 51726,
+    "open_issues_count": 612,
+    "forks_count": 4494
   },
   {
     "id": 15062869,
     "full_name": "facebook/jest",
-    "stargazers_count": 41136,
-    "open_issues_count": 928,
-    "forks_count": 6222
+    "stargazers_count": 41164,
+    "open_issues_count": 923,
+    "forks_count": 6226
   },
   {
     "id": 51452356,
     "full_name": "infinitered/ignite",
-    "stargazers_count": 14746,
-    "open_issues_count": 38,
-    "forks_count": 1222
-  },
-  {
-    "id": 221981891,
-    "full_name": "microsoft/playwright",
-    "stargazers_count": 46705,
-    "open_issues_count": 712,
-    "forks_count": 2288
-  },
-  {
-    "id": 62607227,
-    "full_name": "yangshun/tech-interview-handbook",
-    "stargazers_count": 85010,
-    "open_issues_count": 17,
-    "forks_count": 11146
-  },
-  {
-    "id": 471166235,
-    "full_name": "open-sauced/landing-page",
-    "stargazers_count": 8,
-    "open_issues_count": 9,
-    "forks_count": 5
-  },
-  {
-    "id": 501028599,
-    "full_name": "open-sauced/insights",
-    "stargazers_count": 88,
-    "open_issues_count": 88,
-    "forks_count": 10
+    "stargazers_count": 14756,
+    "open_issues_count": 40,
+    "forks_count": 1226
   }
 ]
