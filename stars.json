@@ -1,87 +1,108 @@
 [
   {
+    "id": 35955666,
+    "full_name": "jlevy/the-art-of-command-line",
+    "stargazers_count": 130496,
+    "open_issues_count": 217,
+    "forks_count": 13104
+  },
+  {
+    "id": 71133469,
+    "full_name": "reviewdog/reviewdog",
+    "stargazers_count": 6065,
+    "open_issues_count": 122,
+    "forks_count": 334
+  },
+  {
+    "id": 217657474,
+    "full_name": "technote-space/create-pr-action",
+    "stargazers_count": 31,
+    "open_issues_count": 4,
+    "forks_count": 5
+  },
+  {
     "id": 543918342,
     "full_name": "JoshuaKGoldberg/template-typescript-node-package",
-    "stargazers_count": 45,
-    "open_issues_count": 25,
+    "stargazers_count": 47,
+    "open_issues_count": 26,
     "forks_count": 13
   },
   {
     "id": 11008207,
     "full_name": "vitessio/vitess",
-    "stargazers_count": 15607,
-    "open_issues_count": 803,
-    "forks_count": 1899
+    "stargazers_count": 15625,
+    "open_issues_count": 817,
+    "forks_count": 1903
   },
   {
     "id": 216581567,
     "full_name": "github/super-linter",
-    "stargazers_count": 8535,
+    "stargazers_count": 8542,
     "open_issues_count": 75,
-    "forks_count": 969
+    "forks_count": 970
   },
   {
     "id": 171072967,
     "full_name": "pedroslopez/whatsapp-web.js",
-    "stargazers_count": 9273,
-    "open_issues_count": 308,
-    "forks_count": 2145
+    "stargazers_count": 9331,
+    "open_issues_count": 312,
+    "forks_count": 2149
   },
   {
     "id": 164768889,
     "full_name": "alibaba/formily",
-    "stargazers_count": 9188,
-    "open_issues_count": 14,
-    "forks_count": 1286
+    "stargazers_count": 9201,
+    "open_issues_count": 17,
+    "forks_count": 1288
   },
   {
     "id": 436297812,
     "full_name": "usememos/memos",
-    "stargazers_count": 6458,
-    "open_issues_count": 67,
-    "forks_count": 395
+    "stargazers_count": 6628,
+    "open_issues_count": 66,
+    "forks_count": 405
   },
   {
     "id": 43807251,
     "full_name": "tachiyomiorg/tachiyomi",
-    "stargazers_count": 21184,
-    "open_issues_count": 454,
-    "forks_count": 2386
+    "stargazers_count": 21235,
+    "open_issues_count": 452,
+    "forks_count": 2390
   },
   {
     "id": 520955562,
     "full_name": "motion-canvas/motion-canvas",
-    "stargazers_count": 8015,
-    "open_issues_count": 65,
-    "forks_count": 304
+    "stargazers_count": 8842,
+    "open_issues_count": 66,
+    "forks_count": 329
   },
   {
     "id": 482246851,
     "full_name": "noahflk/railtrack",
     "stargazers_count": 117,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 12
   },
   {
     "id": 77326607,
     "full_name": "misskey-dev/misskey",
-    "stargazers_count": 5025,
-    "open_issues_count": 1250,
-    "forks_count": 627
+    "stargazers_count": 5141,
+    "open_issues_count": 1252,
+    "forks_count": 634
   },
   {
     "id": 599311541,
     "full_name": "natemoo-re/clack",
-    "stargazers_count": 2625,
-    "open_issues_count": 11,
-    "forks_count": 32
+    "stargazers_count": 2824,
+    "open_issues_count": 10,
+    "forks_count": 33
   },
   {
     "id": 130688011,
     "full_name": "meilisearch/meilisearch",
-    "stargazers_count": 33803,
-    "open_issues_count": 125,
-    "forks_count": 1221
+    "stargazers_count": 33893,
+    "open_issues_count": 118,
+    "forks_count": 1219
   },
   {
     "id": 277911948,
@@ -101,22 +122,22 @@
     "id": 551461730,
     "full_name": "TechIsHiring/techishiring-website",
     "stargazers_count": 17,
-    "open_issues_count": 17,
+    "open_issues_count": 16,
     "forks_count": 9
   },
   {
     "id": 202890778,
     "full_name": "chakra-ui/chakra-ui",
-    "stargazers_count": 31284,
-    "open_issues_count": 141,
-    "forks_count": 2799
+    "stargazers_count": 31334,
+    "open_issues_count": 142,
+    "forks_count": 2804
   },
   {
     "id": 170527464,
     "full_name": "infinitered/nsfwjs",
-    "stargazers_count": 6443,
-    "open_issues_count": 57,
-    "forks_count": 460
+    "stargazers_count": 6451,
+    "open_issues_count": 56,
+    "forks_count": 461
   },
   {
     "id": 537919202,
@@ -135,78 +156,57 @@
   {
     "id": 115110181,
     "full_name": "swc-project/swc",
-    "stargazers_count": 26118,
-    "open_issues_count": 335,
-    "forks_count": 905
+    "stargazers_count": 26152,
+    "open_issues_count": 337,
+    "forks_count": 911
   },
   {
     "id": 511730493,
     "full_name": "romeerez/orchid-orm",
     "stargazers_count": 237,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 4
   },
   {
     "id": 589724407,
     "full_name": "Nutlope/twitterbio",
-    "stargazers_count": 698,
-    "open_issues_count": 8,
-    "forks_count": 128
+    "stargazers_count": 709,
+    "open_issues_count": 9,
+    "forks_count": 132
   },
   {
     "id": 12244426,
     "full_name": "rstacruz/nprogress",
-    "stargazers_count": 25082,
-    "open_issues_count": 133,
-    "forks_count": 1849
+    "stargazers_count": 25090,
+    "open_issues_count": 132,
+    "forks_count": 1850
   },
   {
     "id": 316086701,
     "full_name": "clauderic/dnd-kit",
-    "stargazers_count": 6886,
-    "open_issues_count": 214,
-    "forks_count": 383
+    "stargazers_count": 6952,
+    "open_issues_count": 216,
+    "forks_count": 387
   },
   {
     "id": 24233213,
     "full_name": "AdeleD/react-paginate",
-    "stargazers_count": 2477,
-    "open_issues_count": 38,
+    "stargazers_count": 2479,
+    "open_issues_count": 39,
     "forks_count": 604
   },
   {
     "id": 525843389,
     "full_name": "total-typescript/zod-tutorial",
-    "stargazers_count": 377,
+    "stargazers_count": 383,
     "open_issues_count": 9,
     "forks_count": 91
   },
   {
     "id": 175398594,
     "full_name": "sindresorhus/type-fest",
-    "stargazers_count": 10126,
-    "open_issues_count": 122,
-    "forks_count": 373
-  },
-  {
-    "id": 491185703,
-    "full_name": "Eason0210/Monolisa",
-    "stargazers_count": 39,
-    "open_issues_count": 0,
-    "forks_count": 9
-  },
-  {
-    "id": 449649595,
-    "full_name": "pingcap/ossinsight",
-    "stargazers_count": 930,
-    "open_issues_count": 42,
-    "forks_count": 172
-  },
-  {
-    "id": 106017343,
-    "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 65319,
-    "open_issues_count": 4,
-    "forks_count": 3336
+    "stargazers_count": 10161,
+    "open_issues_count": 123,
+    "forks_count": 374
   }
 ]
