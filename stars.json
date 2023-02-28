@@ -1,17 +1,31 @@
 [
   {
+    "id": 514395914,
+    "full_name": "pacocoursey/cmdk",
+    "stargazers_count": 5311,
+    "open_issues_count": 23,
+    "forks_count": 135
+  },
+  {
+    "id": 23096959,
+    "full_name": "golang/go",
+    "stargazers_count": 108919,
+    "open_issues_count": 8214,
+    "forks_count": 15965
+  },
+  {
     "id": 35955666,
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 130496,
+    "stargazers_count": 130993,
     "open_issues_count": 217,
-    "forks_count": 13104
+    "forks_count": 13147
   },
   {
     "id": 71133469,
     "full_name": "reviewdog/reviewdog",
-    "stargazers_count": 6065,
+    "stargazers_count": 6075,
     "open_issues_count": 122,
-    "forks_count": 334
+    "forks_count": 336
   },
   {
     "id": 217657474,
@@ -24,92 +38,92 @@
     "id": 543918342,
     "full_name": "JoshuaKGoldberg/template-typescript-node-package",
     "stargazers_count": 47,
-    "open_issues_count": 26,
-    "forks_count": 13
+    "open_issues_count": 31,
+    "forks_count": 14
   },
   {
     "id": 11008207,
     "full_name": "vitessio/vitess",
-    "stargazers_count": 15625,
-    "open_issues_count": 817,
+    "stargazers_count": 15641,
+    "open_issues_count": 821,
     "forks_count": 1903
   },
   {
     "id": 216581567,
     "full_name": "github/super-linter",
-    "stargazers_count": 8542,
-    "open_issues_count": 75,
-    "forks_count": 970
+    "stargazers_count": 8550,
+    "open_issues_count": 81,
+    "forks_count": 973
   },
   {
     "id": 171072967,
     "full_name": "pedroslopez/whatsapp-web.js",
-    "stargazers_count": 9331,
-    "open_issues_count": 312,
-    "forks_count": 2149
+    "stargazers_count": 9389,
+    "open_issues_count": 321,
+    "forks_count": 2158
   },
   {
     "id": 164768889,
     "full_name": "alibaba/formily",
-    "stargazers_count": 9201,
-    "open_issues_count": 17,
-    "forks_count": 1288
+    "stargazers_count": 9226,
+    "open_issues_count": 14,
+    "forks_count": 1292
   },
   {
     "id": 436297812,
     "full_name": "usememos/memos",
-    "stargazers_count": 6628,
-    "open_issues_count": 66,
-    "forks_count": 405
+    "stargazers_count": 8447,
+    "open_issues_count": 80,
+    "forks_count": 497
   },
   {
     "id": 43807251,
     "full_name": "tachiyomiorg/tachiyomi",
-    "stargazers_count": 21235,
-    "open_issues_count": 452,
-    "forks_count": 2390
+    "stargazers_count": 21311,
+    "open_issues_count": 448,
+    "forks_count": 2397
   },
   {
     "id": 520955562,
     "full_name": "motion-canvas/motion-canvas",
-    "stargazers_count": 8842,
-    "open_issues_count": 66,
-    "forks_count": 329
+    "stargazers_count": 9199,
+    "open_issues_count": 62,
+    "forks_count": 343
   },
   {
     "id": 482246851,
     "full_name": "noahflk/railtrack",
-    "stargazers_count": 117,
+    "stargazers_count": 119,
     "open_issues_count": 2,
     "forks_count": 12
   },
   {
     "id": 77326607,
     "full_name": "misskey-dev/misskey",
-    "stargazers_count": 5141,
-    "open_issues_count": 1252,
-    "forks_count": 634
+    "stargazers_count": 5209,
+    "open_issues_count": 1283,
+    "forks_count": 645
   },
   {
     "id": 599311541,
     "full_name": "natemoo-re/clack",
-    "stargazers_count": 2824,
-    "open_issues_count": 10,
-    "forks_count": 33
+    "stargazers_count": 2988,
+    "open_issues_count": 9,
+    "forks_count": 34
   },
   {
     "id": 130688011,
     "full_name": "meilisearch/meilisearch",
-    "stargazers_count": 33893,
-    "open_issues_count": 118,
-    "forks_count": 1219
+    "stargazers_count": 34025,
+    "open_issues_count": 119,
+    "forks_count": 1221
   },
   {
     "id": 277911948,
     "full_name": "bdougie/awesome-black-developers",
-    "stargazers_count": 217,
+    "stargazers_count": 218,
     "open_issues_count": 1,
-    "forks_count": 22
+    "forks_count": 21
   },
   {
     "id": 265855552,
@@ -128,16 +142,16 @@
   {
     "id": 202890778,
     "full_name": "chakra-ui/chakra-ui",
-    "stargazers_count": 31334,
-    "open_issues_count": 142,
-    "forks_count": 2804
+    "stargazers_count": 31388,
+    "open_issues_count": 148,
+    "forks_count": 2806
   },
   {
     "id": 170527464,
     "full_name": "infinitered/nsfwjs",
-    "stargazers_count": 6451,
+    "stargazers_count": 6465,
     "open_issues_count": 56,
-    "forks_count": 461
+    "forks_count": 460
   },
   {
     "id": 537919202,
@@ -149,64 +163,50 @@
   {
     "id": 559669051,
     "full_name": "isyuricunha/top-github-users",
-    "stargazers_count": 16,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "id": 115110181,
     "full_name": "swc-project/swc",
-    "stargazers_count": 26152,
-    "open_issues_count": 337,
-    "forks_count": 911
+    "stargazers_count": 26321,
+    "open_issues_count": 340,
+    "forks_count": 914
   },
   {
     "id": 511730493,
     "full_name": "romeerez/orchid-orm",
-    "stargazers_count": 237,
-    "open_issues_count": 9,
+    "stargazers_count": 241,
+    "open_issues_count": 10,
     "forks_count": 4
   },
   {
     "id": 589724407,
     "full_name": "Nutlope/twitterbio",
-    "stargazers_count": 709,
+    "stargazers_count": 728,
     "open_issues_count": 9,
-    "forks_count": 132
+    "forks_count": 140
   },
   {
     "id": 12244426,
     "full_name": "rstacruz/nprogress",
-    "stargazers_count": 25090,
+    "stargazers_count": 25094,
     "open_issues_count": 132,
-    "forks_count": 1850
+    "forks_count": 1851
   },
   {
     "id": 316086701,
     "full_name": "clauderic/dnd-kit",
-    "stargazers_count": 6952,
-    "open_issues_count": 216,
-    "forks_count": 387
+    "stargazers_count": 6992,
+    "open_issues_count": 218,
+    "forks_count": 391
   },
   {
     "id": 24233213,
     "full_name": "AdeleD/react-paginate",
-    "stargazers_count": 2479,
-    "open_issues_count": 39,
+    "stargazers_count": 2483,
+    "open_issues_count": 40,
     "forks_count": 604
-  },
-  {
-    "id": 525843389,
-    "full_name": "total-typescript/zod-tutorial",
-    "stargazers_count": 383,
-    "open_issues_count": 9,
-    "forks_count": 91
-  },
-  {
-    "id": 175398594,
-    "full_name": "sindresorhus/type-fest",
-    "stargazers_count": 10161,
-    "open_issues_count": 123,
-    "forks_count": 374
   }
 ]
