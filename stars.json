@@ -2,9 +2,9 @@
   {
     "id": 73648678,
     "full_name": "forem/forem",
-    "stargazers_count": 20360,
-    "open_issues_count": 558,
-    "forks_count": 3628
+    "stargazers_count": 20374,
+    "open_issues_count": 560,
+    "forks_count": 3632
   },
   {
     "id": 579118666,
@@ -16,65 +16,65 @@
   {
     "id": 156849227,
     "full_name": "xnimorz/use-debounce",
-    "stargazers_count": 2182,
+    "stargazers_count": 2184,
     "open_issues_count": 1,
     "forks_count": 100
   },
   {
     "id": 97627474,
     "full_name": "stalniy/casl",
-    "stargazers_count": 4728,
-    "open_issues_count": 25,
+    "stargazers_count": 4739,
+    "open_issues_count": 26,
     "forks_count": 250
   },
   {
     "id": 440224087,
     "full_name": "Shopify/flash-list",
-    "stargazers_count": 3485,
-    "open_issues_count": 108,
-    "forks_count": 119
+    "stargazers_count": 3495,
+    "open_issues_count": 110,
+    "forks_count": 118
   },
   {
     "id": 477048503,
     "full_name": "marklawlor/nativewind",
-    "stargazers_count": 2036,
-    "open_issues_count": 50,
-    "forks_count": 112
+    "stargazers_count": 2056,
+    "open_issues_count": 51,
+    "forks_count": 115
   },
   {
     "id": 56352157,
     "full_name": "infinitered/reactotron",
-    "stargazers_count": 13971,
-    "open_issues_count": 128,
+    "stargazers_count": 13974,
+    "open_issues_count": 129,
     "forks_count": 926
   },
   {
     "id": 295992065,
     "full_name": "tailwindlabs/headlessui",
-    "stargazers_count": 19619,
-    "open_issues_count": 7,
-    "forks_count": 812
+    "stargazers_count": 19680,
+    "open_issues_count": 6,
+    "forks_count": 817
   },
   {
     "id": 129283183,
     "full_name": "facebook/flipper",
-    "stargazers_count": 12486,
-    "open_issues_count": 291,
+    "stargazers_count": 12498,
+    "open_issues_count": 278,
     "forks_count": 905
   },
   {
     "id": 190928426,
     "full_name": "millsp/ts-toolbelt",
-    "stargazers_count": 5537,
+    "stargazers_count": 5552,
     "open_issues_count": 66,
     "forks_count": 136
   },
   {
     "id": 609198373,
     "full_name": "open-sauced-craftwork/browser-extension",
-    "stargazers_count": 25,
+    "stargazers_count": 27,
     "open_issues_count": 2,
-    "forks_count": 16
+    "forks_count": 15
   },
   {
     "id": 540203199,
@@ -86,15 +86,15 @@
   {
     "id": 48769241,
     "full_name": "penpot/penpot",
-    "stargazers_count": 21187,
-    "open_issues_count": 260,
-    "forks_count": 976
+    "stargazers_count": 21232,
+    "open_issues_count": 262,
+    "forks_count": 977
   },
   {
     "id": 175832658,
     "full_name": "crxjs/chrome-extension-tools",
-    "stargazers_count": 1225,
-    "open_issues_count": 72,
+    "stargazers_count": 1236,
+    "open_issues_count": 73,
     "forks_count": 98
   },
   {
@@ -102,70 +102,70 @@
     "full_name": "open-sauced/assets",
     "stargazers_count": 6,
     "open_issues_count": 1,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "id": 180328715,
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 28859,
+    "stargazers_count": 28972,
     "open_issues_count": 17,
-    "forks_count": 897
+    "forks_count": 899
   },
   {
     "id": 604791960,
     "full_name": "Nutlope/roomGPT",
-    "stargazers_count": 6021,
-    "open_issues_count": 14,
-    "forks_count": 513
+    "stargazers_count": 6202,
+    "open_issues_count": 18,
+    "forks_count": 553
   },
   {
     "id": 85031442,
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 35938,
+    "stargazers_count": 35965,
     "open_issues_count": 23,
-    "forks_count": 3052
+    "forks_count": 3055
   },
   {
     "id": 111241370,
     "full_name": "ionic-team/capacitor",
-    "stargazers_count": 9055,
-    "open_issues_count": 235,
-    "forks_count": 859
+    "stargazers_count": 9069,
+    "open_issues_count": 232,
+    "forks_count": 862
   },
   {
     "id": 603761805,
     "full_name": "total-typescript/ts-reset",
-    "stargazers_count": 5079,
-    "open_issues_count": 34,
-    "forks_count": 67
+    "stargazers_count": 5126,
+    "open_issues_count": 36,
+    "forks_count": 69
   },
   {
     "id": 514395914,
     "full_name": "pacocoursey/cmdk",
-    "stargazers_count": 5565,
-    "open_issues_count": 28,
-    "forks_count": 142
+    "stargazers_count": 5602,
+    "open_issues_count": 29,
+    "forks_count": 143
   },
   {
     "id": 23096959,
     "full_name": "golang/go",
-    "stargazers_count": 109595,
-    "open_issues_count": 8257,
-    "forks_count": 16058
+    "stargazers_count": 109686,
+    "open_issues_count": 8281,
+    "forks_count": 16089
   },
   {
     "id": 35955666,
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 133463,
+    "stargazers_count": 133905,
     "open_issues_count": 218,
-    "forks_count": 13331
+    "forks_count": 13353
   },
   {
     "id": 71133469,
     "full_name": "reviewdog/reviewdog",
-    "stargazers_count": 6139,
+    "stargazers_count": 6153,
     "open_issues_count": 127,
-    "forks_count": 339
+    "forks_count": 341
   },
   {
     "id": 217657474,
@@ -177,36 +177,36 @@
   {
     "id": 543918342,
     "full_name": "JoshuaKGoldberg/template-typescript-node-package",
-    "stargazers_count": 117,
-    "open_issues_count": 29,
-    "forks_count": 20
+    "stargazers_count": 118,
+    "open_issues_count": 30,
+    "forks_count": 21
   },
   {
     "id": 11008207,
     "full_name": "vitessio/vitess",
-    "stargazers_count": 15783,
-    "open_issues_count": 826,
-    "forks_count": 1913
+    "stargazers_count": 15813,
+    "open_issues_count": 813,
+    "forks_count": 1914
   },
   {
     "id": 216581567,
     "full_name": "github/super-linter",
-    "stargazers_count": 8613,
-    "open_issues_count": 100,
-    "forks_count": 986
+    "stargazers_count": 8622,
+    "open_issues_count": 96,
+    "forks_count": 988
   },
   {
     "id": 171072967,
     "full_name": "pedroslopez/whatsapp-web.js",
-    "stargazers_count": 9619,
-    "open_issues_count": 350,
-    "forks_count": 2221
+    "stargazers_count": 9656,
+    "open_issues_count": 354,
+    "forks_count": 2232
   },
   {
     "id": 164768889,
     "full_name": "alibaba/formily",
-    "stargazers_count": 9340,
+    "stargazers_count": 9352,
     "open_issues_count": 10,
-    "forks_count": 1302
+    "forks_count": 1305
   }
 ]
