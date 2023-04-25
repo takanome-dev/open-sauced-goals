@@ -1,59 +1,73 @@
 [
   {
+    "id": 10088951,
+    "full_name": "TheOdinProject/theodinproject",
+    "stargazers_count": 2454,
+    "open_issues_count": 34,
+    "forks_count": 1904
+  },
+  {
+    "id": 289073337,
+    "full_name": "highlight/highlight",
+    "stargazers_count": 3456,
+    "open_issues_count": 343,
+    "forks_count": 75
+  },
+  {
     "id": 32531480,
     "full_name": "js-cookie/js-cookie",
-    "stargazers_count": 20590,
+    "stargazers_count": 20595,
     "open_issues_count": 2,
-    "forks_count": 2104
+    "forks_count": 2106
   },
   {
     "id": 390500337,
     "full_name": "open-sauced/.github",
-    "stargazers_count": 21,
+    "stargazers_count": 24,
     "open_issues_count": 6,
-    "forks_count": 28
+    "forks_count": 30
   },
   {
     "id": 61412022,
     "full_name": "ianstormtaylor/slate",
-    "stargazers_count": 26881,
+    "stargazers_count": 26898,
     "open_issues_count": 579,
     "forks_count": 3122
   },
   {
     "id": 90902132,
     "full_name": "flameshot-org/flameshot",
-    "stargazers_count": 20720,
-    "open_issues_count": 417,
+    "stargazers_count": 20757,
+    "open_issues_count": 421,
     "forks_count": 1316
   },
   {
     "id": 70107786,
     "full_name": "vercel/next.js",
-    "stargazers_count": 104705,
-    "open_issues_count": 1761,
-    "forks_count": 23558
+    "stargazers_count": 104898,
+    "open_issues_count": 1807,
+    "forks_count": 23631
   },
   {
     "id": 231283452,
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 46763,
-    "open_issues_count": 1018,
-    "forks_count": 3925
+    "stargazers_count": 46959,
+    "open_issues_count": 1022,
+    "forks_count": 3947
   },
   {
     "id": 50565430,
     "full_name": "pnpm/pnpm",
-    "stargazers_count": 23301,
-    "open_issues_count": 1098,
-    "forks_count": 702
+    "stargazers_count": 23355,
+    "open_issues_count": 1108,
+    "forks_count": 705
   },
   {
     "id": 73648678,
     "full_name": "forem/forem",
-    "stargazers_count": 20467,
-    "open_issues_count": 563,
-    "forks_count": 3676
+    "stargazers_count": 20484,
+    "open_issues_count": 580,
+    "forks_count": 3677
   },
   {
     "id": 579118666,
@@ -65,58 +79,58 @@
   {
     "id": 156849227,
     "full_name": "xnimorz/use-debounce",
-    "stargazers_count": 2212,
+    "stargazers_count": 2215,
     "open_issues_count": 1,
     "forks_count": 102
   },
   {
     "id": 97627474,
     "full_name": "stalniy/casl",
-    "stargazers_count": 4791,
+    "stargazers_count": 4799,
     "open_issues_count": 25,
     "forks_count": 253
   },
   {
     "id": 440224087,
     "full_name": "Shopify/flash-list",
-    "stargazers_count": 3583,
-    "open_issues_count": 102,
-    "forks_count": 124
+    "stargazers_count": 3598,
+    "open_issues_count": 100,
+    "forks_count": 126
   },
   {
     "id": 477048503,
     "full_name": "marklawlor/nativewind",
-    "stargazers_count": 2173,
+    "stargazers_count": 2189,
     "open_issues_count": 61,
-    "forks_count": 122
+    "forks_count": 123
   },
   {
     "id": 56352157,
     "full_name": "infinitered/reactotron",
-    "stargazers_count": 13993,
-    "open_issues_count": 129,
+    "stargazers_count": 13994,
+    "open_issues_count": 128,
     "forks_count": 930
   },
   {
     "id": 295992065,
     "full_name": "tailwindlabs/headlessui",
-    "stargazers_count": 20101,
-    "open_issues_count": 14,
-    "forks_count": 826
+    "stargazers_count": 20166,
+    "open_issues_count": 16,
+    "forks_count": 830
   },
   {
     "id": 129283183,
     "full_name": "facebook/flipper",
-    "stargazers_count": 12576,
-    "open_issues_count": 287,
-    "forks_count": 912
+    "stargazers_count": 12583,
+    "open_issues_count": 297,
+    "forks_count": 913
   },
   {
     "id": 190928426,
     "full_name": "millsp/ts-toolbelt",
-    "stargazers_count": 5641,
+    "stargazers_count": 5652,
     "open_issues_count": 67,
-    "forks_count": 137
+    "forks_count": 139
   },
   {
     "id": 609198373,
@@ -128,23 +142,23 @@
   {
     "id": 540203199,
     "full_name": "daoodaba975/galsenify",
-    "stargazers_count": 24,
+    "stargazers_count": 23,
     "open_issues_count": 0,
     "forks_count": 8
   },
   {
     "id": 48769241,
     "full_name": "penpot/penpot",
-    "stargazers_count": 21509,
+    "stargazers_count": 21535,
     "open_issues_count": 269,
-    "forks_count": 995
+    "forks_count": 998
   },
   {
     "id": 175832658,
     "full_name": "crxjs/chrome-extension-tools",
-    "stargazers_count": 1317,
-    "open_issues_count": 73,
-    "forks_count": 102
+    "stargazers_count": 1328,
+    "open_issues_count": 78,
+    "forks_count": 103
   },
   {
     "id": 270398775,
@@ -156,57 +170,43 @@
   {
     "id": 180328715,
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 29870,
-    "open_issues_count": 15,
-    "forks_count": 931
+    "stargazers_count": 29984,
+    "open_issues_count": 13,
+    "forks_count": 934
   },
   {
     "id": 604791960,
     "full_name": "Nutlope/roomGPT",
-    "stargazers_count": 6779,
+    "stargazers_count": 6805,
     "open_issues_count": 35,
-    "forks_count": 660
+    "forks_count": 668
   },
   {
     "id": 85031442,
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 36144,
+    "stargazers_count": 36162,
     "open_issues_count": 22,
-    "forks_count": 3068
+    "forks_count": 3070
   },
   {
     "id": 111241370,
     "full_name": "ionic-team/capacitor",
-    "stargazers_count": 9174,
+    "stargazers_count": 9199,
     "open_issues_count": 235,
     "forks_count": 865
   },
   {
     "id": 603761805,
     "full_name": "total-typescript/ts-reset",
-    "stargazers_count": 5791,
-    "open_issues_count": 42,
+    "stargazers_count": 5820,
+    "open_issues_count": 43,
     "forks_count": 85
   },
   {
     "id": 514395914,
     "full_name": "pacocoursey/cmdk",
-    "stargazers_count": 5792,
+    "stargazers_count": 5815,
     "open_issues_count": 30,
     "forks_count": 154
-  },
-  {
-    "id": 23096959,
-    "full_name": "golang/go",
-    "stargazers_count": 110530,
-    "open_issues_count": 8304,
-    "forks_count": 16335
-  },
-  {
-    "id": 35955666,
-    "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 135287,
-    "open_issues_count": 219,
-    "forks_count": 13485
   }
 ]
