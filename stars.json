@@ -1,71 +1,92 @@
 [
   {
+    "id": 124257233,
+    "full_name": "pmndrs/react-spring",
+    "stargazers_count": 25600,
+    "open_issues_count": 82,
+    "forks_count": 1131
+  },
+  {
+    "id": 545508308,
+    "full_name": "webpro/knip",
+    "stargazers_count": 868,
+    "open_issues_count": 8,
+    "forks_count": 19
+  },
+  {
+    "id": 264192686,
+    "full_name": "supabase/supabase-js",
+    "stargazers_count": 1910,
+    "open_issues_count": 55,
+    "forks_count": 159
+  },
+  {
     "id": 470318046,
     "full_name": "esbuild-kit/tsx",
-    "stargazers_count": 4056,
-    "open_issues_count": 35,
+    "stargazers_count": 4081,
+    "open_issues_count": 37,
     "forks_count": 53
   },
   {
     "id": 24063576,
     "full_name": "semantic-release/semantic-release",
-    "stargazers_count": 17792,
-    "open_issues_count": 314,
-    "forks_count": 1716
+    "stargazers_count": 17812,
+    "open_issues_count": 316,
+    "forks_count": 1717
   },
   {
     "id": 201689889,
     "full_name": "Thinkmill/manypkg",
-    "stargazers_count": 655,
-    "open_issues_count": 41,
-    "forks_count": 36
+    "stargazers_count": 656,
+    "open_issues_count": 42,
+    "forks_count": 37
   },
   {
     "id": 360522116,
     "full_name": "nextui-org/nextui",
-    "stargazers_count": 10052,
-    "open_issues_count": 153,
-    "forks_count": 561
+    "stargazers_count": 10115,
+    "open_issues_count": 154,
+    "forks_count": 566
   },
   {
     "id": 165536154,
     "full_name": "typescript-eslint/typescript-eslint",
-    "stargazers_count": 13291,
-    "open_issues_count": 418,
-    "forks_count": 2537
+    "stargazers_count": 13308,
+    "open_issues_count": 419,
+    "forks_count": 2538
   },
   {
     "id": 212613049,
     "full_name": "cli/cli",
-    "stargazers_count": 32160,
-    "open_issues_count": 434,
-    "forks_count": 4990
+    "stargazers_count": 32182,
+    "open_issues_count": 435,
+    "forks_count": 5003
   },
   {
     "id": 37291982,
     "full_name": "gilbarbara/logos",
-    "stargazers_count": 5900,
-    "open_issues_count": 24,
-    "forks_count": 712
+    "stargazers_count": 5905,
+    "open_issues_count": 27,
+    "forks_count": 713
   },
   {
     "id": 387024088,
     "full_name": "DenverCoder1/custom-icon-badges",
-    "stargazers_count": 276,
+    "stargazers_count": 277,
     "open_issues_count": 1,
     "forks_count": 63
   },
   {
     "id": 500872269,
     "full_name": "maurodesouza/profile-readme-generator",
-    "stargazers_count": 649,
+    "stargazers_count": 656,
     "open_issues_count": 0,
-    "forks_count": 106
+    "forks_count": 108
   },
   {
     "id": 565343568,
     "full_name": "madbull12/t3-twitter-clone",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -80,92 +101,92 @@
     "id": 588205706,
     "full_name": "open-sauced/browser-extensions",
     "stargazers_count": 8,
-    "open_issues_count": 14,
-    "forks_count": 4
+    "open_issues_count": 11,
+    "forks_count": 5
   },
   {
     "id": 594241170,
     "full_name": "agmmnn/tauri-ui",
-    "stargazers_count": 293,
+    "stargazers_count": 307,
     "open_issues_count": 0,
-    "forks_count": 21
+    "forks_count": 23
   },
   {
     "id": 105279544,
     "full_name": "gocolly/colly",
-    "stargazers_count": 19457,
+    "stargazers_count": 19471,
     "open_issues_count": 169,
-    "forks_count": 1587
+    "forks_count": 1588
   },
   {
     "id": 10088951,
     "full_name": "TheOdinProject/theodinproject",
-    "stargazers_count": 2461,
-    "open_issues_count": 35,
+    "stargazers_count": 2465,
+    "open_issues_count": 26,
     "forks_count": 1911
   },
   {
     "id": 289073337,
     "full_name": "highlight/highlight",
-    "stargazers_count": 3587,
-    "open_issues_count": 351,
+    "stargazers_count": 3638,
+    "open_issues_count": 361,
     "forks_count": 76
   },
   {
     "id": 32531480,
     "full_name": "js-cookie/js-cookie",
-    "stargazers_count": 20609,
+    "stargazers_count": 20621,
     "open_issues_count": 2,
-    "forks_count": 2106
+    "forks_count": 2108
   },
   {
     "id": 390500337,
     "full_name": "open-sauced/.github",
-    "stargazers_count": 25,
+    "stargazers_count": 24,
     "open_issues_count": 6,
-    "forks_count": 33
+    "forks_count": 34
   },
   {
     "id": 61412022,
     "full_name": "ianstormtaylor/slate",
-    "stargazers_count": 26955,
-    "open_issues_count": 585,
-    "forks_count": 3124
+    "stargazers_count": 26967,
+    "open_issues_count": 588,
+    "forks_count": 3129
   },
   {
     "id": 90902132,
     "full_name": "flameshot-org/flameshot",
-    "stargazers_count": 20814,
+    "stargazers_count": 20835,
     "open_issues_count": 420,
-    "forks_count": 1314
+    "forks_count": 1316
   },
   {
     "id": 70107786,
     "full_name": "vercel/next.js",
-    "stargazers_count": 105312,
-    "open_issues_count": 1836,
-    "forks_count": 23732
+    "stargazers_count": 105480,
+    "open_issues_count": 1856,
+    "forks_count": 23772
   },
   {
     "id": 231283452,
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 47386,
-    "open_issues_count": 1027,
-    "forks_count": 4005
+    "stargazers_count": 47586,
+    "open_issues_count": 1038,
+    "forks_count": 4029
   },
   {
     "id": 50565430,
     "full_name": "pnpm/pnpm",
-    "stargazers_count": 23462,
-    "open_issues_count": 1120,
-    "forks_count": 708
+    "stargazers_count": 23518,
+    "open_issues_count": 1127,
+    "forks_count": 709
   },
   {
     "id": 73648678,
     "full_name": "forem/forem",
-    "stargazers_count": 20517,
-    "open_issues_count": 569,
-    "forks_count": 3690
+    "stargazers_count": 20527,
+    "open_issues_count": 576,
+    "forks_count": 3698
   },
   {
     "id": 579118666,
@@ -177,36 +198,15 @@
   {
     "id": 156849227,
     "full_name": "xnimorz/use-debounce",
-    "stargazers_count": 2223,
+    "stargazers_count": 2226,
     "open_issues_count": 1,
-    "forks_count": 102
+    "forks_count": 101
   },
   {
     "id": 97627474,
     "full_name": "stalniy/casl",
-    "stargazers_count": 4813,
-    "open_issues_count": 22,
-    "forks_count": 253
-  },
-  {
-    "id": 440224087,
-    "full_name": "Shopify/flash-list",
-    "stargazers_count": 3644,
-    "open_issues_count": 110,
-    "forks_count": 133
-  },
-  {
-    "id": 477048503,
-    "full_name": "marklawlor/nativewind",
-    "stargazers_count": 2214,
-    "open_issues_count": 64,
-    "forks_count": 125
-  },
-  {
-    "id": 56352157,
-    "full_name": "infinitered/reactotron",
-    "stargazers_count": 14002,
-    "open_issues_count": 127,
-    "forks_count": 933
+    "stargazers_count": 4816,
+    "open_issues_count": 21,
+    "forks_count": 254
   }
 ]
