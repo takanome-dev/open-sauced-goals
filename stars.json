@@ -1,50 +1,57 @@
 [
   {
+    "id": 227803815,
+    "full_name": "returntocorp/semgrep",
+    "stargazers_count": 8170,
+    "open_issues_count": 501,
+    "forks_count": 481
+  },
+  {
     "id": 252593764,
     "full_name": "hossein-zare/react-native-dropdown-picker",
-    "stargazers_count": 781,
+    "stargazers_count": 782,
     "open_issues_count": 100,
     "forks_count": 263
   },
   {
     "id": 241805592,
     "full_name": "rome/tools",
-    "stargazers_count": 23443,
-    "open_issues_count": 90,
-    "forks_count": 671
+    "stargazers_count": 23483,
+    "open_issues_count": 94,
+    "forks_count": 675
   },
   {
     "id": 234798675,
     "full_name": "bevyengine/bevy",
-    "stargazers_count": 23731,
-    "open_issues_count": 1435,
-    "forks_count": 2392
+    "stargazers_count": 23768,
+    "open_issues_count": 1430,
+    "forks_count": 2399
   },
   {
     "id": 196701619,
     "full_name": "tauri-apps/tauri",
-    "stargazers_count": 63455,
-    "open_issues_count": 512,
-    "forks_count": 1712
+    "stargazers_count": 63573,
+    "open_issues_count": 509,
+    "forks_count": 1717
   },
   {
     "id": 553759919,
     "full_name": "shadcn/taxonomy",
-    "stargazers_count": 11306,
-    "open_issues_count": 77,
-    "forks_count": 1247
+    "stargazers_count": 11446,
+    "open_issues_count": 78,
+    "forks_count": 1273
   },
   {
     "id": 465169221,
     "full_name": "tandpfun/skill-icons",
-    "stargazers_count": 2562,
-    "open_issues_count": 247,
-    "forks_count": 391
+    "stargazers_count": 2583,
+    "open_issues_count": 252,
+    "forks_count": 395
   },
   {
     "id": 263772478,
     "full_name": "JasonEtco/build-and-tag-action",
-    "stargazers_count": 73,
+    "stargazers_count": 74,
     "open_issues_count": 19,
     "forks_count": 21
   },
@@ -52,29 +59,29 @@
     "id": 434739901,
     "full_name": "open-sauced/release",
     "stargazers_count": 9,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 2
   },
   {
     "id": 584189373,
     "full_name": "rupali-codes/LinksHub",
-    "stargazers_count": 238,
-    "open_issues_count": 33,
-    "forks_count": 158
+    "stargazers_count": 241,
+    "open_issues_count": 38,
+    "forks_count": 161
   },
   {
     "id": 423079536,
     "full_name": "harlan-zw/unlighthouse",
-    "stargazers_count": 2196,
-    "open_issues_count": 32,
-    "forks_count": 42
+    "stargazers_count": 2279,
+    "open_issues_count": 36,
+    "forks_count": 44
   },
   {
     "id": 47039255,
     "full_name": "codex-team/editor.js",
-    "stargazers_count": 22846,
-    "open_issues_count": 480,
-    "forks_count": 1767
+    "stargazers_count": 22882,
+    "open_issues_count": 481,
+    "forks_count": 1770
   },
   {
     "id": 358660177,
@@ -100,113 +107,106 @@
   {
     "id": 411003249,
     "full_name": "mtfoley/pr-compliance-action",
-    "stargazers_count": 152,
+    "stargazers_count": 156,
     "open_issues_count": 14,
     "forks_count": 12
   },
   {
     "id": 234231371,
     "full_name": "gofiber/fiber",
-    "stargazers_count": 26250,
-    "open_issues_count": 45,
-    "forks_count": 1313
+    "stargazers_count": 26304,
+    "open_issues_count": 50,
+    "forks_count": 1316
   },
   {
     "id": 138547797,
     "full_name": "FiloSottile/mkcert",
-    "stargazers_count": 40885,
+    "stargazers_count": 40948,
     "open_issues_count": 116,
-    "forks_count": 2113
+    "forks_count": 2118
   },
   {
     "id": 247350713,
     "full_name": "m1k1o/neko",
-    "stargazers_count": 3776,
+    "stargazers_count": 3791,
     "open_issues_count": 66,
-    "forks_count": 284
+    "forks_count": 285
   },
   {
     "id": 530861050,
     "full_name": "yoavbls/pretty-ts-errors",
-    "stargazers_count": 10730,
-    "open_issues_count": 15,
-    "forks_count": 68
+    "stargazers_count": 10805,
+    "open_issues_count": 16,
+    "forks_count": 67
   },
   {
     "id": 124257233,
     "full_name": "pmndrs/react-spring",
-    "stargazers_count": 25663,
+    "stargazers_count": 25679,
     "open_issues_count": 84,
     "forks_count": 1137
   },
   {
     "id": 545508308,
     "full_name": "webpro/knip",
-    "stargazers_count": 954,
-    "open_issues_count": 8,
-    "forks_count": 19
+    "stargazers_count": 1114,
+    "open_issues_count": 10,
+    "forks_count": 20
   },
   {
     "id": 264192686,
     "full_name": "supabase/supabase-js",
-    "stargazers_count": 1937,
+    "stargazers_count": 1941,
     "open_issues_count": 55,
-    "forks_count": 162
+    "forks_count": 161
   },
   {
     "id": 470318046,
     "full_name": "esbuild-kit/tsx",
-    "stargazers_count": 4186,
-    "open_issues_count": 37,
-    "forks_count": 55
+    "stargazers_count": 4219,
+    "open_issues_count": 40,
+    "forks_count": 56
   },
   {
     "id": 24063576,
     "full_name": "semantic-release/semantic-release",
-    "stargazers_count": 17877,
-    "open_issues_count": 313,
-    "forks_count": 1722
+    "stargazers_count": 17901,
+    "open_issues_count": 314,
+    "forks_count": 1723
   },
   {
     "id": 201689889,
     "full_name": "Thinkmill/manypkg",
-    "stargazers_count": 671,
+    "stargazers_count": 676,
     "open_issues_count": 43,
     "forks_count": 37
   },
   {
     "id": 360522116,
     "full_name": "nextui-org/nextui",
-    "stargazers_count": 10257,
+    "stargazers_count": 10304,
     "open_issues_count": 159,
-    "forks_count": 574
+    "forks_count": 579
   },
   {
     "id": 165536154,
     "full_name": "typescript-eslint/typescript-eslint",
-    "stargazers_count": 13360,
-    "open_issues_count": 430,
-    "forks_count": 2537
+    "stargazers_count": 13373,
+    "open_issues_count": 436,
+    "forks_count": 2540
   },
   {
     "id": 212613049,
     "full_name": "cli/cli",
-    "stargazers_count": 32291,
-    "open_issues_count": 428,
-    "forks_count": 5064
+    "stargazers_count": 32321,
+    "open_issues_count": 432,
+    "forks_count": 5074
   },
   {
     "id": 37291982,
     "full_name": "gilbarbara/logos",
-    "stargazers_count": 5919,
-    "open_issues_count": 32,
-    "forks_count": 715
-  },
-  {
-    "id": 387024088,
-    "full_name": "DenverCoder1/custom-icon-badges",
-    "stargazers_count": 280,
-    "open_issues_count": 1,
-    "forks_count": 63
+    "stargazers_count": 5921,
+    "open_issues_count": 28,
+    "forks_count": 718
   }
 ]
