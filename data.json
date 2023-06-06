@@ -1,9 +1,9 @@
 [
   {
     "full_name": "open-sauced/insights",
-    "stargazers_count": 125,
-    "open_issues_count": 94,
-    "forks_count": 31
+    "stargazers_count": 126,
+    "open_issues_count": 101,
+    "forks_count": 33
   },
   {
     "full_name": "open-sauced/landing-page",
@@ -13,8 +13,8 @@
   },
   {
     "full_name": "medusajs/medusa",
-    "stargazers_count": 18226,
-    "open_issues_count": 260,
+    "stargazers_count": 18268,
+    "open_issues_count": 259,
     "forks_count": 1342
   },
   {
@@ -31,26 +31,26 @@
   },
   {
     "full_name": "amplication/amplication",
-    "stargazers_count": 9931,
-    "open_issues_count": 437,
-    "forks_count": 901
+    "stargazers_count": 9943,
+    "open_issues_count": 446,
+    "forks_count": 907
   },
   {
     "full_name": "open-sauced/hot",
     "stargazers_count": 266,
     "open_issues_count": 33,
-    "forks_count": 92
+    "forks_count": 91
   },
   {
     "full_name": "opencrvs/opencrvs-core",
     "stargazers_count": 70,
-    "open_issues_count": 476,
+    "open_issues_count": 490,
     "forks_count": 38
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 882,
     "open_issues_count": 0,
-    "forks_count": 638
+    "forks_count": 643
   }
 ]

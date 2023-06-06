@@ -1,59 +1,73 @@
 [
   {
+    "id": 19429698,
+    "full_name": "signalapp/Signal-iOS",
+    "stargazers_count": 9895,
+    "open_issues_count": 88,
+    "forks_count": 2745
+  },
+  {
+    "id": 17148588,
+    "full_name": "signalapp/Signal-Desktop",
+    "stargazers_count": 13336,
+    "open_issues_count": 658,
+    "forks_count": 2438
+  },
+  {
     "id": 133442384,
     "full_name": "denoland/deno",
-    "stargazers_count": 89635,
-    "open_issues_count": 1368,
-    "forks_count": 4871
+    "stargazers_count": 89678,
+    "open_issues_count": 1365,
+    "forks_count": 4872
   },
   {
     "id": 519895363,
     "full_name": "GyulyVGC/sniffnet",
-    "stargazers_count": 7355,
-    "open_issues_count": 24,
-    "forks_count": 182
+    "stargazers_count": 7470,
+    "open_issues_count": 25,
+    "forks_count": 185
   },
   {
     "id": 148641954,
     "full_name": "TheAlgorithms/Rust",
-    "stargazers_count": 16079,
+    "stargazers_count": 16121,
     "open_issues_count": 4,
-    "forks_count": 1581
+    "forks_count": 1585
   },
   {
     "id": 169975410,
     "full_name": "leon-ai/leon",
-    "stargazers_count": 12835,
-    "open_issues_count": 80,
-    "forks_count": 1035
+    "stargazers_count": 12864,
+    "open_issues_count": 81,
+    "forks_count": 1038
   },
   {
     "id": 568098118,
     "full_name": "makeplane/plane",
-    "stargazers_count": 6747,
-    "open_issues_count": 69,
-    "forks_count": 157
+    "stargazers_count": 8927,
+    "open_issues_count": 85,
+    "forks_count": 241
   },
   {
     "id": 633091774,
     "full_name": "anse-app/anse",
-    "stargazers_count": 975,
-    "open_issues_count": 11,
-    "forks_count": 173
+    "stargazers_count": 1009,
+    "open_issues_count": 10,
+    "forks_count": 178
   },
   {
     "id": 630874227,
     "full_name": "Blazity/next-enterprise",
-    "stargazers_count": 2389,
-    "open_issues_count": 6,
-    "forks_count": 202
+    "stargazers_count": 2888,
+    "open_issues_count": 5,
+    "forks_count": 274
   },
   {
     "id": 193992134,
     "full_name": "microsoft/TypeScript-Website",
-    "stargazers_count": 1909,
-    "open_issues_count": 37,
-    "forks_count": 1239
+    "stargazers_count": 1913,
+    "open_issues_count": 39,
+    "forks_count": 1244
   },
   {
     "id": 645929033,
@@ -67,47 +81,47 @@
     "full_name": "open-sauced/guestbook",
     "stargazers_count": 5,
     "open_issues_count": 1,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "id": 1223029,
     "full_name": "tj/n",
-    "stargazers_count": 17660,
-    "open_issues_count": 1,
+    "stargazers_count": 17667,
+    "open_issues_count": 2,
     "forks_count": 741
   },
   {
     "id": 128907699,
     "full_name": "iamkun/dayjs",
-    "stargazers_count": 43203,
+    "stargazers_count": 43236,
     "open_issues_count": 737,
-    "forks_count": 2181
+    "forks_count": 2183
   },
   {
     "id": 323397287,
     "full_name": "reactjs/server-components-demo",
-    "stargazers_count": 3806,
-    "open_issues_count": 24,
+    "stargazers_count": 3815,
+    "open_issues_count": 22,
     "forks_count": 567
   },
   {
     "id": 159495816,
     "full_name": "httptoolkit/httptoolkit",
-    "stargazers_count": 1946,
-    "open_issues_count": 138,
+    "stargazers_count": 1948,
+    "open_issues_count": 141,
     "forks_count": 59
   },
   {
     "id": 16408992,
     "full_name": "neovim/neovim",
-    "stargazers_count": 66354,
-    "open_issues_count": 1719,
-    "forks_count": 4676
+    "stargazers_count": 66446,
+    "open_issues_count": 1713,
+    "forks_count": 4689
   },
   {
     "id": 391415714,
     "full_name": "ThePrimeagen/ansible",
-    "stargazers_count": 139,
+    "stargazers_count": 140,
     "open_issues_count": 5,
     "forks_count": 58
   },
@@ -121,21 +135,21 @@
   {
     "id": 285902689,
     "full_name": "Expensify/App",
-    "stargazers_count": 1196,
-    "open_issues_count": 1320,
-    "forks_count": 1051
+    "stargazers_count": 1219,
+    "open_issues_count": 1315,
+    "forks_count": 1082
   },
   {
     "id": 159932592,
     "full_name": "donbright/rust-lang-cheat-sheet",
-    "stargazers_count": 195,
+    "stargazers_count": 197,
     "open_issues_count": 0,
-    "forks_count": 36
+    "forks_count": 37
   },
   {
     "id": 632775667,
     "full_name": "open-sauced/intro",
-    "stargazers_count": 42,
+    "stargazers_count": 47,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -149,30 +163,30 @@
   {
     "id": 173228436,
     "full_name": "NationalSecurityAgency/ghidra",
-    "stargazers_count": 39850,
-    "open_issues_count": 1347,
-    "forks_count": 4904
+    "stargazers_count": 39902,
+    "open_issues_count": 1354,
+    "forks_count": 4907
   },
   {
     "id": 449924556,
     "full_name": "tigrisdata/tigris",
-    "stargazers_count": 784,
-    "open_issues_count": 48,
-    "forks_count": 30
+    "stargazers_count": 792,
+    "open_issues_count": 45,
+    "forks_count": 29
   },
   {
     "id": 580836813,
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 16783,
-    "open_issues_count": 86,
-    "forks_count": 863
+    "stargazers_count": 17072,
+    "open_issues_count": 92,
+    "forks_count": 891
   },
   {
     "id": 358956513,
     "full_name": "zsviczian/obsidian-excalidraw-plugin",
-    "stargazers_count": 1985,
+    "stargazers_count": 2000,
     "open_issues_count": 341,
-    "forks_count": 118
+    "forks_count": 119
   },
   {
     "id": 642983941,
@@ -184,29 +198,15 @@
   {
     "id": 227803815,
     "full_name": "returntocorp/semgrep",
-    "stargazers_count": 8224,
-    "open_issues_count": 498,
-    "forks_count": 486
+    "stargazers_count": 8240,
+    "open_issues_count": 496,
+    "forks_count": 487
   },
   {
     "id": 252593764,
     "full_name": "hossein-zare/react-native-dropdown-picker",
-    "stargazers_count": 786,
+    "stargazers_count": 788,
     "open_issues_count": 102,
-    "forks_count": 266
-  },
-  {
-    "id": 241805592,
-    "full_name": "rome/tools",
-    "stargazers_count": 23612,
-    "open_issues_count": 102,
-    "forks_count": 684
-  },
-  {
-    "id": 234798675,
-    "full_name": "bevyengine/bevy",
-    "stargazers_count": 24121,
-    "open_issues_count": 1448,
-    "forks_count": 2428
+    "forks_count": 267
   }
 ]
