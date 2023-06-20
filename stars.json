@@ -1,59 +1,73 @@
 [
   {
+    "id": 634940144,
+    "full_name": "JoshuaKGoldberg/all-contributors-auto-action",
+    "stargazers_count": 7,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "id": 631585674,
+    "full_name": "t3-oss/t3-env",
+    "stargazers_count": 1348,
+    "open_issues_count": 17,
+    "forks_count": 33
+  },
+  {
     "id": 520259184,
     "full_name": "miguelsolorio/vscode-symbols",
-    "stargazers_count": 196,
+    "stargazers_count": 200,
     "open_issues_count": 6,
     "forks_count": 24
   },
   {
     "id": 649816851,
     "full_name": "AmrDeveloper/GQL",
-    "stargazers_count": 304,
-    "open_issues_count": 1,
+    "stargazers_count": 321,
+    "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "id": 22914463,
     "full_name": "omnidan/node-emoji",
     "stargazers_count": 1161,
-    "open_issues_count": 14,
+    "open_issues_count": 13,
     "forks_count": 247
   },
   {
     "id": 382468045,
     "full_name": "mateusz1913/react-native-avoid-softinput",
-    "stargazers_count": 474,
-    "open_issues_count": 4,
+    "stargazers_count": 479,
+    "open_issues_count": 5,
     "forks_count": 14
   },
   {
     "id": 482596054,
     "full_name": "kirillzyusko/react-native-keyboard-controller",
-    "stargazers_count": 790,
-    "open_issues_count": 10,
+    "stargazers_count": 798,
+    "open_issues_count": 14,
     "forks_count": 24
   },
   {
     "id": 372046384,
     "full_name": "aidenybai/million",
-    "stargazers_count": 10125,
-    "open_issues_count": 37,
-    "forks_count": 288
+    "stargazers_count": 10337,
+    "open_issues_count": 46,
+    "forks_count": 297
   },
   {
     "id": 368917877,
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 17967,
-    "open_issues_count": 401,
-    "forks_count": 960
+    "stargazers_count": 18015,
+    "open_issues_count": 403,
+    "forks_count": 970
   },
   {
     "id": 27193779,
     "full_name": "nodejs/node",
-    "stargazers_count": 95982,
-    "open_issues_count": 1721,
-    "forks_count": 26096
+    "stargazers_count": 96037,
+    "open_issues_count": 1733,
+    "forks_count": 26124
   },
   {
     "id": 280818415,
@@ -72,23 +86,23 @@
   {
     "id": 52729242,
     "full_name": "keepassxreboot/keepassxc",
-    "stargazers_count": 16197,
-    "open_issues_count": 656,
-    "forks_count": 1234
+    "stargazers_count": 16232,
+    "open_issues_count": 657,
+    "forks_count": 1237
   },
   {
     "id": 452769633,
     "full_name": "vercel/satori",
-    "stargazers_count": 8379,
-    "open_issues_count": 52,
-    "forks_count": 147
+    "stargazers_count": 8403,
+    "open_issues_count": 53,
+    "forks_count": 149
   },
   {
     "id": 331251392,
     "full_name": "contentlayerdev/contentlayer",
-    "stargazers_count": 2098,
-    "open_issues_count": 116,
-    "forks_count": 115
+    "stargazers_count": 2115,
+    "open_issues_count": 120,
+    "forks_count": 117
   },
   {
     "id": 440173249,
@@ -114,72 +128,72 @@
   {
     "id": 19429698,
     "full_name": "signalapp/Signal-iOS",
-    "stargazers_count": 9908,
-    "open_issues_count": 78,
-    "forks_count": 2757
+    "stargazers_count": 9919,
+    "open_issues_count": 79,
+    "forks_count": 2767
   },
   {
     "id": 17148588,
     "full_name": "signalapp/Signal-Desktop",
-    "stargazers_count": 13359,
-    "open_issues_count": 647,
-    "forks_count": 2445
+    "stargazers_count": 13367,
+    "open_issues_count": 649,
+    "forks_count": 2450
   },
   {
     "id": 133442384,
     "full_name": "denoland/deno",
-    "stargazers_count": 89798,
-    "open_issues_count": 1368,
-    "forks_count": 4887
+    "stargazers_count": 89843,
+    "open_issues_count": 1384,
+    "forks_count": 4891
   },
   {
     "id": 519895363,
     "full_name": "GyulyVGC/sniffnet",
-    "stargazers_count": 7629,
-    "open_issues_count": 28,
-    "forks_count": 188
+    "stargazers_count": 7687,
+    "open_issues_count": 26,
+    "forks_count": 189
   },
   {
     "id": 148641954,
     "full_name": "TheAlgorithms/Rust",
-    "stargazers_count": 16270,
+    "stargazers_count": 16302,
     "open_issues_count": 4,
-    "forks_count": 1605
+    "forks_count": 1609
   },
   {
     "id": 169975410,
     "full_name": "leon-ai/leon",
-    "stargazers_count": 12925,
-    "open_issues_count": 80,
+    "stargazers_count": 12955,
+    "open_issues_count": 79,
     "forks_count": 1052
   },
   {
     "id": 568098118,
     "full_name": "makeplane/plane",
-    "stargazers_count": 10096,
-    "open_issues_count": 109,
-    "forks_count": 295
+    "stargazers_count": 10366,
+    "open_issues_count": 119,
+    "forks_count": 316
   },
   {
     "id": 633091774,
     "full_name": "anse-app/anse",
-    "stargazers_count": 1086,
-    "open_issues_count": 13,
-    "forks_count": 200
+    "stargazers_count": 1115,
+    "open_issues_count": 14,
+    "forks_count": 206
   },
   {
     "id": 630874227,
     "full_name": "Blazity/next-enterprise",
-    "stargazers_count": 3352,
-    "open_issues_count": 8,
-    "forks_count": 350
+    "stargazers_count": 3405,
+    "open_issues_count": 9,
+    "forks_count": 370
   },
   {
     "id": 193992134,
     "full_name": "microsoft/TypeScript-Website",
-    "stargazers_count": 1922,
-    "open_issues_count": 40,
-    "forks_count": 1251
+    "stargazers_count": 1929,
+    "open_issues_count": 44,
+    "forks_count": 1255
   },
   {
     "id": 645929033,
@@ -194,19 +208,5 @@
     "stargazers_count": 5,
     "open_issues_count": 2,
     "forks_count": 19
-  },
-  {
-    "id": 1223029,
-    "full_name": "tj/n",
-    "stargazers_count": 17702,
-    "open_issues_count": 4,
-    "forks_count": 742
-  },
-  {
-    "id": 128907699,
-    "full_name": "iamkun/dayjs",
-    "stargazers_count": 43320,
-    "open_issues_count": 749,
-    "forks_count": 2186
   }
 ]
