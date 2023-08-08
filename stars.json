@@ -1,66 +1,87 @@
 [
   {
+    "id": 544719997,
+    "full_name": "mintlify/mintlify.com",
+    "stargazers_count": 10,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "id": 54372926,
+    "full_name": "webhooksite/webhook.site",
+    "stargazers_count": 4202,
+    "open_issues_count": 17,
+    "forks_count": 342
+  },
+  {
+    "id": 663508414,
+    "full_name": "webdevcody/code-racer",
+    "stargazers_count": 542,
+    "open_issues_count": 18,
+    "forks_count": 293
+  },
+  {
     "id": 633814548,
     "full_name": "krasun/damngood.tools",
-    "stargazers_count": 502,
+    "stargazers_count": 509,
     "open_issues_count": 2,
     "forks_count": 60
   },
   {
     "id": 438384984,
     "full_name": "honojs/hono",
-    "stargazers_count": 5553,
-    "open_issues_count": 82,
-    "forks_count": 167
+    "stargazers_count": 5621,
+    "open_issues_count": 85,
+    "forks_count": 169
   },
   {
     "id": 144910756,
     "full_name": "lane711/sonicjs",
-    "stargazers_count": 433,
+    "stargazers_count": 437,
     "open_issues_count": 7,
     "forks_count": 77
   },
   {
     "id": 325283778,
     "full_name": "dudykr/stc",
-    "stargazers_count": 5140,
-    "open_issues_count": 68,
+    "stargazers_count": 5152,
+    "open_issues_count": 67,
     "forks_count": 163
   },
   {
     "id": 160427405,
     "full_name": "plausible/analytics",
-    "stargazers_count": 15593,
-    "open_issues_count": 33,
-    "forks_count": 828
+    "stargazers_count": 15629,
+    "open_issues_count": 32,
+    "forks_count": 832
   },
   {
     "id": 104957153,
     "full_name": "nestjs/awesome-nestjs",
-    "stargazers_count": 8393,
+    "stargazers_count": 8411,
     "open_issues_count": 16,
     "forks_count": 776
   },
   {
     "id": 186024298,
     "full_name": "nushell/nushell",
-    "stargazers_count": 25750,
-    "open_issues_count": 988,
-    "forks_count": 1300
+    "stargazers_count": 25791,
+    "open_issues_count": 997,
+    "forks_count": 1301
   },
   {
     "id": 129990396,
     "full_name": "sunface/rust-by-practice",
-    "stargazers_count": 8628,
-    "open_issues_count": 46,
-    "forks_count": 622
+    "stargazers_count": 8672,
+    "open_issues_count": 57,
+    "forks_count": 625
   },
   {
     "id": 299354207,
     "full_name": "rustdesk/rustdesk",
-    "stargazers_count": 44816,
+    "stargazers_count": 44922,
     "open_issues_count": 69,
-    "forks_count": 4697
+    "forks_count": 4719
   },
   {
     "id": 639507278,
@@ -72,56 +93,56 @@
   {
     "id": 491235501,
     "full_name": "formkit/auto-animate",
-    "stargazers_count": 8240,
-    "open_issues_count": 50,
+    "stargazers_count": 8252,
+    "open_issues_count": 48,
     "forks_count": 143
   },
   {
     "id": 646985602,
     "full_name": "mfts/papermark",
-    "stargazers_count": 547,
+    "stargazers_count": 549,
     "open_issues_count": 5,
     "forks_count": 31
   },
   {
     "id": 636870455,
     "full_name": "azat-io/eslint-plugin-perfectionist",
-    "stargazers_count": 906,
-    "open_issues_count": 10,
+    "stargazers_count": 909,
+    "open_issues_count": 13,
     "forks_count": 6
   },
   {
     "id": 11061773,
     "full_name": "eslint/eslint",
-    "stargazers_count": 23171,
-    "open_issues_count": 118,
-    "forks_count": 4379
+    "stargazers_count": 23186,
+    "open_issues_count": 119,
+    "forks_count": 4385
   },
   {
     "id": 634940144,
     "full_name": "JoshuaKGoldberg/all-contributors-auto-action",
-    "stargazers_count": 8,
-    "open_issues_count": 5,
-    "forks_count": 0
+    "stargazers_count": 9,
+    "open_issues_count": 6,
+    "forks_count": 1
   },
   {
     "id": 631585674,
     "full_name": "t3-oss/t3-env",
-    "stargazers_count": 1512,
+    "stargazers_count": 1524,
     "open_issues_count": 17,
-    "forks_count": 38
+    "forks_count": 39
   },
   {
     "id": 520259184,
     "full_name": "miguelsolorio/vscode-symbols",
     "stargazers_count": 227,
-    "open_issues_count": 15,
-    "forks_count": 32
+    "open_issues_count": 6,
+    "forks_count": 33
   },
   {
     "id": 649816851,
     "full_name": "AmrDeveloper/GQL",
-    "stargazers_count": 447,
+    "stargazers_count": 452,
     "open_issues_count": 1,
     "forks_count": 7
   },
@@ -135,42 +156,42 @@
   {
     "id": 382468045,
     "full_name": "mateusz1913/react-native-avoid-softinput",
-    "stargazers_count": 526,
+    "stargazers_count": 532,
     "open_issues_count": 3,
     "forks_count": 15
   },
   {
     "id": 482596054,
     "full_name": "kirillzyusko/react-native-keyboard-controller",
-    "stargazers_count": 845,
+    "stargazers_count": 854,
     "open_issues_count": 12,
     "forks_count": 27
   },
   {
     "id": 372046384,
     "full_name": "aidenybai/million",
-    "stargazers_count": 11603,
+    "stargazers_count": 11650,
     "open_issues_count": 39,
-    "forks_count": 345
+    "forks_count": 348
   },
   {
     "id": 368917877,
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 18496,
-    "open_issues_count": 440,
-    "forks_count": 1026
+    "stargazers_count": 18524,
+    "open_issues_count": 442,
+    "forks_count": 1030
   },
   {
     "id": 27193779,
     "full_name": "nodejs/node",
-    "stargazers_count": 96921,
-    "open_issues_count": 1787,
-    "forks_count": 26422
+    "stargazers_count": 96983,
+    "open_issues_count": 1815,
+    "forks_count": 26437
   },
   {
     "id": 280818415,
     "full_name": "ravsamhq/notify-slack-action",
-    "stargazers_count": 130,
+    "stargazers_count": 132,
     "open_issues_count": 20,
     "forks_count": 43
   },
@@ -184,29 +205,8 @@
   {
     "id": 52729242,
     "full_name": "keepassxreboot/keepassxc",
-    "stargazers_count": 16595,
-    "open_issues_count": 649,
-    "forks_count": 1258
-  },
-  {
-    "id": 452769633,
-    "full_name": "vercel/satori",
-    "stargazers_count": 8609,
-    "open_issues_count": 59,
-    "forks_count": 164
-  },
-  {
-    "id": 331251392,
-    "full_name": "contentlayerdev/contentlayer",
-    "stargazers_count": 2273,
-    "open_issues_count": 119,
-    "forks_count": 130
-  },
-  {
-    "id": 440173249,
-    "full_name": "takanome-dev/film-fiesta",
-    "stargazers_count": 8,
-    "open_issues_count": 4,
-    "forks_count": 1
+    "stargazers_count": 16621,
+    "open_issues_count": 643,
+    "forks_count": 1259
   }
 ]
