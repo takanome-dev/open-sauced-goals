@@ -1,9 +1,30 @@
 [
   {
+    "id": 683826869,
+    "full_name": "lodjim/wolof-subtitle-generator",
+    "stargazers_count": 13,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "id": 646269950,
+    "full_name": "bautistaaa/typehero",
+    "stargazers_count": 425,
+    "open_issues_count": 34,
+    "forks_count": 52
+  },
+  {
+    "id": 12574344,
+    "full_name": "spf13/cobra",
+    "stargazers_count": 33132,
+    "open_issues_count": 229,
+    "forks_count": 2744
+  },
+  {
     "id": 681384528,
     "full_name": "open-sauced/go-api",
     "stargazers_count": 3,
-    "open_issues_count": 2,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
@@ -16,9 +37,9 @@
   {
     "id": 109192133,
     "full_name": "ImageOptim/gifski",
-    "stargazers_count": 3236,
-    "open_issues_count": 23,
-    "forks_count": 118
+    "stargazers_count": 3243,
+    "open_issues_count": 25,
+    "forks_count": 119
   },
   {
     "id": 644381992,
@@ -31,36 +52,36 @@
     "id": 544719997,
     "full_name": "mintlify/mintlify.com",
     "stargazers_count": 11,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 5
   },
   {
     "id": 54372926,
     "full_name": "webhooksite/webhook.site",
-    "stargazers_count": 4249,
+    "stargazers_count": 4259,
     "open_issues_count": 19,
     "forks_count": 350
   },
   {
     "id": 663508414,
     "full_name": "webdevcody/code-racer",
-    "stargazers_count": 594,
-    "open_issues_count": 22,
-    "forks_count": 326
+    "stargazers_count": 606,
+    "open_issues_count": 24,
+    "forks_count": 327
   },
   {
     "id": 633814548,
     "full_name": "krasun/damngood.tools",
-    "stargazers_count": 526,
+    "stargazers_count": 529,
     "open_issues_count": 2,
     "forks_count": 64
   },
   {
     "id": 438384984,
     "full_name": "honojs/hono",
-    "stargazers_count": 5941,
+    "stargazers_count": 5981,
     "open_issues_count": 86,
-    "forks_count": 179
+    "forks_count": 180
   },
   {
     "id": 144910756,
@@ -72,79 +93,79 @@
   {
     "id": 325283778,
     "full_name": "dudykr/stc",
-    "stargazers_count": 5195,
+    "stargazers_count": 5211,
     "open_issues_count": 70,
-    "forks_count": 165
+    "forks_count": 164
   },
   {
     "id": 160427405,
     "full_name": "plausible/analytics",
-    "stargazers_count": 15828,
-    "open_issues_count": 34,
-    "forks_count": 842
+    "stargazers_count": 15867,
+    "open_issues_count": 35,
+    "forks_count": 844
   },
   {
     "id": 104957153,
     "full_name": "nestjs/awesome-nestjs",
-    "stargazers_count": 8495,
+    "stargazers_count": 8520,
     "open_issues_count": 16,
-    "forks_count": 786
+    "forks_count": 788
   },
   {
     "id": 186024298,
     "full_name": "nushell/nushell",
-    "stargazers_count": 25994,
-    "open_issues_count": 919,
-    "forks_count": 1312
+    "stargazers_count": 26034,
+    "open_issues_count": 921,
+    "forks_count": 1314
   },
   {
     "id": 129990396,
     "full_name": "sunface/rust-by-practice",
-    "stargazers_count": 8773,
+    "stargazers_count": 8802,
     "open_issues_count": 49,
-    "forks_count": 632
+    "forks_count": 633
   },
   {
     "id": 299354207,
     "full_name": "rustdesk/rustdesk",
-    "stargazers_count": 45785,
-    "open_issues_count": 67,
-    "forks_count": 4832
+    "stargazers_count": 46226,
+    "open_issues_count": 66,
+    "forks_count": 4886
   },
   {
     "id": 639507278,
     "full_name": "open-sauced/pizza",
     "stargazers_count": 28,
     "open_issues_count": 6,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "id": 491235501,
     "full_name": "formkit/auto-animate",
-    "stargazers_count": 8518,
-    "open_issues_count": 51,
-    "forks_count": 147
+    "stargazers_count": 9140,
+    "open_issues_count": 52,
+    "forks_count": 159
   },
   {
     "id": 646985602,
     "full_name": "mfts/papermark",
-    "stargazers_count": 588,
-    "open_issues_count": 10,
-    "forks_count": 35
+    "stargazers_count": 601,
+    "open_issues_count": 11,
+    "forks_count": 37
   },
   {
     "id": 636870455,
     "full_name": "azat-io/eslint-plugin-perfectionist",
-    "stargazers_count": 940,
+    "stargazers_count": 942,
     "open_issues_count": 14,
     "forks_count": 8
   },
   {
     "id": 11061773,
     "full_name": "eslint/eslint",
-    "stargazers_count": 23284,
-    "open_issues_count": 120,
-    "forks_count": 4406
+    "stargazers_count": 23301,
+    "open_issues_count": 116,
+    "forks_count": 4412
   },
   {
     "id": 634940144,
@@ -156,57 +177,36 @@
   {
     "id": 631585674,
     "full_name": "t3-oss/t3-env",
-    "stargazers_count": 1571,
+    "stargazers_count": 1581,
     "open_issues_count": 13,
-    "forks_count": 42
+    "forks_count": 41
   },
   {
     "id": 520259184,
     "full_name": "miguelsolorio/vscode-symbols",
     "stargazers_count": 229,
-    "open_issues_count": 11,
-    "forks_count": 35
+    "open_issues_count": 12,
+    "forks_count": 36
   },
   {
     "id": 649816851,
     "full_name": "AmrDeveloper/GQL",
-    "stargazers_count": 480,
+    "stargazers_count": 489,
     "open_issues_count": 2,
     "forks_count": 8
   },
   {
     "id": 22914463,
     "full_name": "omnidan/node-emoji",
-    "stargazers_count": 1226,
+    "stargazers_count": 1230,
     "open_issues_count": 13,
     "forks_count": 249
   },
   {
     "id": 382468045,
     "full_name": "mateusz1913/react-native-avoid-softinput",
-    "stargazers_count": 541,
+    "stargazers_count": 543,
     "open_issues_count": 3,
     "forks_count": 15
-  },
-  {
-    "id": 482596054,
-    "full_name": "kirillzyusko/react-native-keyboard-controller",
-    "stargazers_count": 874,
-    "open_issues_count": 14,
-    "forks_count": 28
-  },
-  {
-    "id": 372046384,
-    "full_name": "aidenybai/million",
-    "stargazers_count": 12420,
-    "open_issues_count": 60,
-    "forks_count": 383
-  },
-  {
-    "id": 368917877,
-    "full_name": "BuilderIO/qwik",
-    "stargazers_count": 18670,
-    "open_issues_count": 444,
-    "forks_count": 1046
   }
 ]
