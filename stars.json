@@ -2,9 +2,9 @@
   {
     "id": 678083094,
     "full_name": "opentffoundation/manifesto",
-    "stargazers_count": 30199,
-    "open_issues_count": 41,
-    "forks_count": 940
+    "stargazers_count": 30582,
+    "open_issues_count": 52,
+    "forks_count": 950
   },
   {
     "id": 683826869,
@@ -16,14 +16,14 @@
   {
     "id": 646269950,
     "full_name": "bautistaaa/typehero",
-    "stargazers_count": 522,
-    "open_issues_count": 40,
+    "stargazers_count": 524,
+    "open_issues_count": 41,
     "forks_count": 64
   },
   {
     "id": 12574344,
     "full_name": "spf13/cobra",
-    "stargazers_count": 33161,
+    "stargazers_count": 33166,
     "open_issues_count": 230,
     "forks_count": 2748
   },
@@ -38,7 +38,7 @@
     "id": 635015358,
     "full_name": "takanome-dev/personal-configs",
     "stargazers_count": 1,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 0
   },
   {
@@ -52,7 +52,7 @@
     "id": 644381992,
     "full_name": "takanome-dev/pay-wise",
     "stargazers_count": 3,
-    "open_issues_count": 20,
+    "open_issues_count": 21,
     "forks_count": 0
   },
   {
@@ -65,7 +65,7 @@
   {
     "id": 54372926,
     "full_name": "webhooksite/webhook.site",
-    "stargazers_count": 4264,
+    "stargazers_count": 4266,
     "open_issues_count": 19,
     "forks_count": 350
   },
@@ -73,7 +73,7 @@
     "id": 663508414,
     "full_name": "webdevcody/code-racer",
     "stargazers_count": 613,
-    "open_issues_count": 22,
+    "open_issues_count": 23,
     "forks_count": 330
   },
   {
@@ -86,7 +86,7 @@
   {
     "id": 438384984,
     "full_name": "honojs/hono",
-    "stargazers_count": 6013,
+    "stargazers_count": 6017,
     "open_issues_count": 91,
     "forks_count": 183
   },
@@ -100,44 +100,44 @@
   {
     "id": 325283778,
     "full_name": "dudykr/stc",
-    "stargazers_count": 5217,
+    "stargazers_count": 5218,
     "open_issues_count": 71,
     "forks_count": 165
   },
   {
     "id": 160427405,
     "full_name": "plausible/analytics",
-    "stargazers_count": 15886,
-    "open_issues_count": 38,
+    "stargazers_count": 15887,
+    "open_issues_count": 36,
     "forks_count": 847
   },
   {
     "id": 104957153,
     "full_name": "nestjs/awesome-nestjs",
-    "stargazers_count": 8538,
+    "stargazers_count": 8541,
     "open_issues_count": 16,
     "forks_count": 789
   },
   {
     "id": 186024298,
     "full_name": "nushell/nushell",
-    "stargazers_count": 26089,
+    "stargazers_count": 26095,
     "open_issues_count": 931,
-    "forks_count": 1316
+    "forks_count": 1318
   },
   {
     "id": 129990396,
     "full_name": "sunface/rust-by-practice",
     "stargazers_count": 8816,
     "open_issues_count": 50,
-    "forks_count": 636
+    "forks_count": 637
   },
   {
     "id": 299354207,
     "full_name": "rustdesk/rustdesk",
-    "stargazers_count": 46364,
-    "open_issues_count": 67,
-    "forks_count": 4912
+    "stargazers_count": 46380,
+    "open_issues_count": 68,
+    "forks_count": 4916
   },
   {
     "id": 639507278,
@@ -149,7 +149,7 @@
   {
     "id": 491235501,
     "full_name": "formkit/auto-animate",
-    "stargazers_count": 9274,
+    "stargazers_count": 9284,
     "open_issues_count": 52,
     "forks_count": 160
   },
@@ -163,16 +163,16 @@
   {
     "id": 636870455,
     "full_name": "azat-io/eslint-plugin-perfectionist",
-    "stargazers_count": 946,
+    "stargazers_count": 950,
     "open_issues_count": 14,
     "forks_count": 8
   },
   {
     "id": 11061773,
     "full_name": "eslint/eslint",
-    "stargazers_count": 23310,
+    "stargazers_count": 23312,
     "open_issues_count": 120,
-    "forks_count": 4416
+    "forks_count": 4417
   },
   {
     "id": 634940144,
@@ -198,7 +198,7 @@
   {
     "id": 649816851,
     "full_name": "AmrDeveloper/GQL",
-    "stargazers_count": 491,
+    "stargazers_count": 492,
     "open_issues_count": 2,
     "forks_count": 8
   },
