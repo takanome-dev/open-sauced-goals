@@ -2,9 +2,9 @@
   {
     "id": 678083094,
     "full_name": "opentffoundation/manifesto",
-    "stargazers_count": 30582,
-    "open_issues_count": 52,
-    "forks_count": 950
+    "stargazers_count": 31036,
+    "open_issues_count": 57,
+    "forks_count": 960
   },
   {
     "id": 683826869,
@@ -16,16 +16,16 @@
   {
     "id": 646269950,
     "full_name": "bautistaaa/typehero",
-    "stargazers_count": 524,
-    "open_issues_count": 41,
-    "forks_count": 64
+    "stargazers_count": 541,
+    "open_issues_count": 45,
+    "forks_count": 69
   },
   {
     "id": 12574344,
     "full_name": "spf13/cobra",
-    "stargazers_count": 33166,
-    "open_issues_count": 230,
-    "forks_count": 2748
+    "stargazers_count": 33169,
+    "open_issues_count": 231,
+    "forks_count": 2749
   },
   {
     "id": 681384528,
@@ -44,7 +44,7 @@
   {
     "id": 109192133,
     "full_name": "ImageOptim/gifski",
-    "stargazers_count": 3251,
+    "stargazers_count": 3252,
     "open_issues_count": 25,
     "forks_count": 120
   },
@@ -73,7 +73,7 @@
     "id": 663508414,
     "full_name": "webdevcody/code-racer",
     "stargazers_count": 613,
-    "open_issues_count": 23,
+    "open_issues_count": 19,
     "forks_count": 330
   },
   {
@@ -86,7 +86,7 @@
   {
     "id": 438384984,
     "full_name": "honojs/hono",
-    "stargazers_count": 6017,
+    "stargazers_count": 6021,
     "open_issues_count": 91,
     "forks_count": 183
   },
@@ -100,29 +100,29 @@
   {
     "id": 325283778,
     "full_name": "dudykr/stc",
-    "stargazers_count": 5218,
+    "stargazers_count": 5219,
     "open_issues_count": 71,
     "forks_count": 165
   },
   {
     "id": 160427405,
     "full_name": "plausible/analytics",
-    "stargazers_count": 15887,
+    "stargazers_count": 15889,
     "open_issues_count": 36,
     "forks_count": 847
   },
   {
     "id": 104957153,
     "full_name": "nestjs/awesome-nestjs",
-    "stargazers_count": 8541,
+    "stargazers_count": 8542,
     "open_issues_count": 16,
-    "forks_count": 789
+    "forks_count": 790
   },
   {
     "id": 186024298,
     "full_name": "nushell/nushell",
-    "stargazers_count": 26095,
-    "open_issues_count": 931,
+    "stargazers_count": 26103,
+    "open_issues_count": 932,
     "forks_count": 1318
   },
   {
@@ -135,23 +135,23 @@
   {
     "id": 299354207,
     "full_name": "rustdesk/rustdesk",
-    "stargazers_count": 46380,
+    "stargazers_count": 46385,
     "open_issues_count": 68,
-    "forks_count": 4916
+    "forks_count": 4918
   },
   {
     "id": 639507278,
     "full_name": "open-sauced/pizza",
     "stargazers_count": 28,
-    "open_issues_count": 6,
+    "open_issues_count": 8,
     "forks_count": 10
   },
   {
     "id": 491235501,
     "full_name": "formkit/auto-animate",
-    "stargazers_count": 9284,
+    "stargazers_count": 9290,
     "open_issues_count": 52,
-    "forks_count": 160
+    "forks_count": 161
   },
   {
     "id": 646985602,
@@ -170,8 +170,8 @@
   {
     "id": 11061773,
     "full_name": "eslint/eslint",
-    "stargazers_count": 23312,
-    "open_issues_count": 120,
+    "stargazers_count": 23314,
+    "open_issues_count": 119,
     "forks_count": 4417
   },
   {
@@ -184,7 +184,7 @@
   {
     "id": 631585674,
     "full_name": "t3-oss/t3-env",
-    "stargazers_count": 1588,
+    "stargazers_count": 1590,
     "open_issues_count": 16,
     "forks_count": 42
   },
@@ -198,14 +198,14 @@
   {
     "id": 649816851,
     "full_name": "AmrDeveloper/GQL",
-    "stargazers_count": 492,
+    "stargazers_count": 494,
     "open_issues_count": 2,
     "forks_count": 8
   },
   {
     "id": 22914463,
     "full_name": "omnidan/node-emoji",
-    "stargazers_count": 1229,
+    "stargazers_count": 1230,
     "open_issues_count": 13,
     "forks_count": 249
   }
