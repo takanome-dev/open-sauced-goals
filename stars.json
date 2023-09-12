@@ -1,73 +1,94 @@
 [
   {
+    "id": 350360184,
+    "full_name": "calcom/cal.com",
+    "stargazers_count": 23046,
+    "open_issues_count": 646,
+    "forks_count": 4238
+  },
+  {
+    "id": 304981340,
+    "full_name": "idurar/erp-crm",
+    "stargazers_count": 1373,
+    "open_issues_count": 56,
+    "forks_count": 361
+  },
+  {
+    "id": 638631346,
+    "full_name": "alvarlagerlof/rsc-parser",
+    "stargazers_count": 351,
+    "open_issues_count": 9,
+    "forks_count": 6
+  },
+  {
     "id": 21540759,
     "full_name": "avelino/awesome-go",
-    "stargazers_count": 107722,
-    "open_issues_count": 168,
-    "forks_count": 11242
+    "stargazers_count": 107963,
+    "open_issues_count": 169,
+    "forks_count": 11247
   },
   {
     "id": 85039965,
     "full_name": "litmuschaos/litmus",
-    "stargazers_count": 3806,
-    "open_issues_count": 393,
+    "stargazers_count": 3811,
+    "open_issues_count": 397,
     "forks_count": 590
   },
   {
     "id": 88011908,
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 115233,
-    "open_issues_count": 48,
-    "forks_count": 16050
+    "stargazers_count": 115580,
+    "open_issues_count": 49,
+    "forks_count": 16096
   },
   {
     "id": 37448451,
     "full_name": "mattermost/mattermost",
-    "stargazers_count": 26244,
-    "open_issues_count": 796,
-    "forks_count": 6354
+    "stargazers_count": 26255,
+    "open_issues_count": 794,
+    "forks_count": 6367
   },
   {
     "id": 682162565,
     "full_name": "danielroe/firstcommit.is",
     "stargazers_count": 94,
-    "open_issues_count": 8,
+    "open_issues_count": 6,
     "forks_count": 4
   },
   {
     "id": 8424040,
     "full_name": "processing/p5.js",
-    "stargazers_count": 19824,
-    "open_issues_count": 232,
-    "forks_count": 2937
+    "stargazers_count": 19844,
+    "open_issues_count": 231,
+    "forks_count": 2945
   },
   {
     "id": 678083094,
     "full_name": "opentffoundation/manifesto",
-    "stargazers_count": 34111,
-    "open_issues_count": 16,
-    "forks_count": 1040
+    "stargazers_count": 34788,
+    "open_issues_count": 25,
+    "forks_count": 1050
   },
   {
     "id": 683826869,
     "full_name": "lodjim/wolof-subtitle-generator",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "id": 646269950,
     "full_name": "typehero/typehero",
-    "stargazers_count": 680,
-    "open_issues_count": 34,
-    "forks_count": 86
+    "stargazers_count": 710,
+    "open_issues_count": 35,
+    "forks_count": 95
   },
   {
     "id": 12574344,
     "full_name": "spf13/cobra",
-    "stargazers_count": 33259,
-    "open_issues_count": 232,
-    "forks_count": 2756
+    "stargazers_count": 33311,
+    "open_issues_count": 233,
+    "forks_count": 2758
   },
   {
     "id": 681384528,
@@ -80,14 +101,14 @@
     "id": 635015358,
     "full_name": "takanome-dev/personal-configs",
     "stargazers_count": 1,
-    "open_issues_count": 4,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
     "id": 109192133,
     "full_name": "ImageOptim/gifski",
-    "stargazers_count": 3258,
-    "open_issues_count": 25,
+    "stargazers_count": 3264,
+    "open_issues_count": 24,
     "forks_count": 120
   },
   {
@@ -101,111 +122,90 @@
     "id": 544719997,
     "full_name": "mintlify/mintlify.com",
     "stargazers_count": 11,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "id": 54372926,
     "full_name": "webhooksite/webhook.site",
-    "stargazers_count": 4292,
+    "stargazers_count": 4300,
     "open_issues_count": 18,
-    "forks_count": 351
+    "forks_count": 352
   },
   {
     "id": 663508414,
     "full_name": "webdevcody/code-racer",
-    "stargazers_count": 626,
-    "open_issues_count": 23,
-    "forks_count": 336
+    "stargazers_count": 628,
+    "open_issues_count": 20,
+    "forks_count": 341
   },
   {
     "id": 633814548,
     "full_name": "krasun/damngood.tools",
-    "stargazers_count": 535,
+    "stargazers_count": 539,
     "open_issues_count": 2,
     "forks_count": 68
   },
   {
     "id": 438384984,
     "full_name": "honojs/hono",
-    "stargazers_count": 6092,
-    "open_issues_count": 99,
-    "forks_count": 188
+    "stargazers_count": 6750,
+    "open_issues_count": 94,
+    "forks_count": 193
   },
   {
     "id": 144910756,
     "full_name": "lane711/sonicjs",
-    "stargazers_count": 465,
+    "stargazers_count": 473,
     "open_issues_count": 9,
     "forks_count": 81
   },
   {
     "id": 325283778,
     "full_name": "dudykr/stc",
-    "stargazers_count": 5235,
+    "stargazers_count": 5255,
     "open_issues_count": 72,
-    "forks_count": 165
+    "forks_count": 166
   },
   {
     "id": 160427405,
     "full_name": "plausible/analytics",
-    "stargazers_count": 15962,
-    "open_issues_count": 33,
-    "forks_count": 851
+    "stargazers_count": 15997,
+    "open_issues_count": 36,
+    "forks_count": 854
   },
   {
     "id": 104957153,
     "full_name": "nestjs/awesome-nestjs",
-    "stargazers_count": 8577,
+    "stargazers_count": 8593,
     "open_issues_count": 16,
-    "forks_count": 793
+    "forks_count": 794
   },
   {
     "id": 186024298,
     "full_name": "nushell/nushell",
-    "stargazers_count": 26264,
-    "open_issues_count": 951,
-    "forks_count": 1327
+    "stargazers_count": 26313,
+    "open_issues_count": 956,
+    "forks_count": 1332
   },
   {
     "id": 129990396,
     "full_name": "sunface/rust-by-practice",
-    "stargazers_count": 8868,
+    "stargazers_count": 8877,
     "open_issues_count": 50,
-    "forks_count": 640
+    "forks_count": 642
   },
   {
     "id": 299354207,
     "full_name": "rustdesk/rustdesk",
-    "stargazers_count": 46633,
-    "open_issues_count": 69,
-    "forks_count": 4956
+    "stargazers_count": 46772,
+    "open_issues_count": 79,
+    "forks_count": 4958
   },
   {
     "id": 639507278,
     "full_name": "open-sauced/pizza",
     "stargazers_count": 28,
-    "open_issues_count": 6,
-    "forks_count": 10
-  },
-  {
-    "id": 491235501,
-    "full_name": "formkit/auto-animate",
-    "stargazers_count": 9390,
-    "open_issues_count": 28,
-    "forks_count": 163
-  },
-  {
-    "id": 646985602,
-    "full_name": "mfts/papermark",
-    "stargazers_count": 854,
-    "open_issues_count": 7,
-    "forks_count": 53
-  },
-  {
-    "id": 636870455,
-    "full_name": "azat-io/eslint-plugin-perfectionist",
-    "stargazers_count": 997,
     "open_issues_count": 7,
     "forks_count": 10
   }
