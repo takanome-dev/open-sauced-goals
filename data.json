@@ -1,9 +1,9 @@
 [
   {
     "full_name": "open-sauced/app",
-    "stargazers_count": 194,
-    "open_issues_count": 127,
-    "forks_count": 91
+    "stargazers_count": 198,
+    "open_issues_count": 130,
+    "forks_count": 93
   },
   {
     "full_name": "open-sauced/landing-page",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "medusajs/medusa",
-    "stargazers_count": 19815,
-    "open_issues_count": 350,
-    "forks_count": 1604
+    "stargazers_count": 19866,
+    "open_issues_count": 354,
+    "forks_count": 1614
   },
   {
     "full_name": "jakobo/docmq",
@@ -31,26 +31,26 @@
   },
   {
     "full_name": "amplication/amplication",
-    "stargazers_count": 11636,
-    "open_issues_count": 480,
-    "forks_count": 1095
+    "stargazers_count": 11678,
+    "open_issues_count": 487,
+    "forks_count": 1100
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 334,
+    "stargazers_count": 335,
     "open_issues_count": 31,
-    "forks_count": 113
+    "forks_count": 114
   },
   {
     "full_name": "opencrvs/opencrvs-core",
     "stargazers_count": 72,
-    "open_issues_count": 532,
+    "open_issues_count": 522,
     "forks_count": 41
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 891,
+    "stargazers_count": 892,
     "open_issues_count": 0,
-    "forks_count": 719
+    "forks_count": 723
   }
 ]
