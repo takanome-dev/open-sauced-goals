@@ -2,7 +2,7 @@
   {
     "id": 40518025,
     "full_name": "graphql/graphiql",
-    "stargazers_count": 15284,
+    "stargazers_count": 15283,
     "open_issues_count": 341,
     "forks_count": 1749
   },
@@ -17,8 +17,8 @@
     "id": 71323749,
     "full_name": "callstack/react-native-paper",
     "stargazers_count": 11316,
-    "open_issues_count": 125,
-    "forks_count": 1976
+    "open_issues_count": 126,
+    "forks_count": 1977
   },
   {
     "id": 653755544,
@@ -44,7 +44,7 @@
   {
     "id": 39759882,
     "full_name": "nhn/tui.editor",
-    "stargazers_count": 16340,
+    "stargazers_count": 16342,
     "open_issues_count": 528,
     "forks_count": 1684
   },
@@ -53,7 +53,7 @@
     "full_name": "OWASP/CheatSheetSeries",
     "stargazers_count": 24769,
     "open_issues_count": 42,
-    "forks_count": 3540
+    "forks_count": 3541
   },
   {
     "id": 6051826,
@@ -72,49 +72,49 @@
   {
     "id": 31288958,
     "full_name": "hashicorp/vault",
-    "stargazers_count": 28476,
-    "open_issues_count": 1236,
-    "forks_count": 4017
+    "stargazers_count": 28480,
+    "open_issues_count": 1246,
+    "forks_count": 4018
   },
   {
     "id": 510607652,
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 26223,
-    "open_issues_count": 41,
-    "forks_count": 1094
+    "stargazers_count": 26235,
+    "open_issues_count": 42,
+    "forks_count": 1096
   },
   {
     "id": 410430370,
     "full_name": "IceWhaleTech/CasaOS",
-    "stargazers_count": 16417,
-    "open_issues_count": 200,
-    "forks_count": 920
+    "stargazers_count": 16458,
+    "open_issues_count": 196,
+    "forks_count": 922
   },
   {
     "id": 78869430,
     "full_name": "heroiclabs/nakama",
-    "stargazers_count": 7653,
-    "open_issues_count": 115,
+    "stargazers_count": 7654,
+    "open_issues_count": 116,
     "forks_count": 961
   },
   {
     "id": 48299818,
     "full_name": "kopia/kopia",
-    "stargazers_count": 4739,
-    "open_issues_count": 255,
-    "forks_count": 265
+    "stargazers_count": 4741,
+    "open_issues_count": 256,
+    "forks_count": 266
   },
   {
     "id": 690825026,
     "full_name": "hyperdxio/hyperdx",
-    "stargazers_count": 4933,
+    "stargazers_count": 4938,
     "open_issues_count": 27,
-    "forks_count": 125
+    "forks_count": 126
   },
   {
     "id": 368683828,
     "full_name": "golang-jwt/jwt",
-    "stargazers_count": 5417,
+    "stargazers_count": 5422,
     "open_issues_count": 39,
     "forks_count": 297
   },
@@ -129,14 +129,14 @@
     "id": 193160679,
     "full_name": "sqlc-dev/sqlc",
     "stargazers_count": 9180,
-    "open_issues_count": 234,
+    "open_issues_count": 232,
     "forks_count": 622
   },
   {
     "id": 284031822,
     "full_name": "gorhom/react-native-bottom-sheet",
-    "stargazers_count": 5166,
-    "open_issues_count": 75,
+    "stargazers_count": 5168,
+    "open_issues_count": 74,
     "forks_count": 613
   },
   {
@@ -156,37 +156,37 @@
   {
     "id": 6051812,
     "full_name": "gorilla/mux",
-    "stargazers_count": 19269,
+    "stargazers_count": 19270,
     "open_issues_count": 17,
     "forks_count": 1809
   },
   {
     "id": 45324348,
     "full_name": "alexflint/go-arg",
-    "stargazers_count": 1718,
+    "stargazers_count": 1717,
     "open_issues_count": 25,
     "forks_count": 92
   },
   {
     "id": 544596167,
     "full_name": "socketsupply/socket",
-    "stargazers_count": 1138,
-    "open_issues_count": 47,
+    "stargazers_count": 1142,
+    "open_issues_count": 46,
     "forks_count": 49
   },
   {
     "id": 196760810,
     "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
-    "stargazers_count": 26891,
-    "open_issues_count": 93,
-    "forks_count": 13403
+    "stargazers_count": 26906,
+    "open_issues_count": 87,
+    "forks_count": 13405
   },
   {
     "id": 102969245,
     "full_name": "golang-standards/project-layout",
-    "stargazers_count": 42197,
+    "stargazers_count": 42206,
     "open_issues_count": 93,
-    "forks_count": 4670
+    "forks_count": 4671
   },
   {
     "id": 550284042,
@@ -198,15 +198,15 @@
   {
     "id": 350360184,
     "full_name": "calcom/cal.com",
-    "stargazers_count": 23551,
+    "stargazers_count": 23557,
     "open_issues_count": 686,
-    "forks_count": 4610
+    "forks_count": 4621
   },
   {
     "id": 304981340,
     "full_name": "idurar/idurar-erp-crm",
-    "stargazers_count": 1537,
+    "stargazers_count": 1539,
     "open_issues_count": 42,
-    "forks_count": 438
+    "forks_count": 442
   }
 ]
