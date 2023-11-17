@@ -1,5 +1,12 @@
 [
   {
+    "id": 717769146,
+    "full_name": "TMCB-SPACE/release",
+    "stargazers_count": 2,
+    "open_issues_count": 4,
+    "forks_count": 0
+  },
+  {
     "id": 513854274,
     "full_name": "NvChad/ui",
     "stargazers_count": 88,
@@ -9,128 +16,128 @@
   {
     "id": 188601229,
     "full_name": "love2d/love",
-    "stargazers_count": 3819,
-    "open_issues_count": 95,
-    "forks_count": 315
+    "stargazers_count": 3830,
+    "open_issues_count": 96,
+    "forks_count": 316
   },
   {
     "id": 522070044,
     "full_name": "fduran/sadservers",
-    "stargazers_count": 1217,
-    "open_issues_count": 1,
-    "forks_count": 29
+    "stargazers_count": 1289,
+    "open_issues_count": 6,
+    "forks_count": 32
   },
   {
     "id": 345368765,
     "full_name": "NvChad/NvChad",
-    "stargazers_count": 20097,
-    "open_issues_count": 0,
-    "forks_count": 1681
+    "stargazers_count": 20143,
+    "open_issues_count": 1,
+    "forks_count": 1690
   },
   {
     "id": 577135082,
     "full_name": "ThePrimeagen/init.lua",
-    "stargazers_count": 2362,
+    "stargazers_count": 2375,
     "open_issues_count": 46,
-    "forks_count": 491
+    "forks_count": 497
   },
   {
     "id": 358671583,
     "full_name": "folke/tokyonight.nvim",
-    "stargazers_count": 4334,
+    "stargazers_count": 4348,
     "open_issues_count": 44,
-    "forks_count": 291
+    "forks_count": 292
   },
   {
     "id": 221512407,
     "full_name": "neovim/nvim-lspconfig",
-    "stargazers_count": 8386,
-    "open_issues_count": 60,
-    "forks_count": 1939
+    "stargazers_count": 8404,
+    "open_issues_count": 58,
+    "forks_count": 1943
   },
   {
     "id": 477171675,
     "full_name": "zbirenbaum/copilot.lua",
-    "stargazers_count": 1600,
+    "stargazers_count": 1610,
     "open_issues_count": 13,
     "forks_count": 45
   },
   {
     "id": 238282268,
     "full_name": "nvim-tree/nvim-tree.lua",
-    "stargazers_count": 5798,
-    "open_issues_count": 56,
-    "forks_count": 580
+    "stargazers_count": 5813,
+    "open_issues_count": 58,
+    "forks_count": 583
   },
   {
     "id": 461363226,
     "full_name": "VonHeikemen/lsp-zero.nvim",
-    "stargazers_count": 2946,
-    "open_issues_count": 11,
+    "stargazers_count": 2955,
+    "open_issues_count": 8,
     "forks_count": 88
   },
   {
     "id": 506861932,
     "full_name": "nvim-lua/kickstart.nvim",
-    "stargazers_count": 9085,
+    "stargazers_count": 9192,
     "open_issues_count": 0,
-    "forks_count": 4970
+    "forks_count": 5077
   },
   {
     "id": 256786531,
     "full_name": "nvim-treesitter/nvim-treesitter",
-    "stargazers_count": 8074,
-    "open_issues_count": 280,
+    "stargazers_count": 8096,
+    "open_issues_count": 282,
     "forks_count": 697
   },
   {
     "id": 381453955,
     "full_name": "hrsh7th/nvim-cmp",
-    "stargazers_count": 6107,
-    "open_issues_count": 185,
+    "stargazers_count": 6120,
+    "open_issues_count": 188,
     "forks_count": 326
   },
   {
     "id": 568549346,
     "full_name": "folke/lazy.nvim",
-    "stargazers_count": 8156,
-    "open_issues_count": 15,
+    "stargazers_count": 8217,
+    "open_issues_count": 16,
     "forks_count": 196
   },
   {
     "id": 696444975,
     "full_name": "githubnext/monaspace",
-    "stargazers_count": 6522,
-    "open_issues_count": 81,
-    "forks_count": 91
+    "stargazers_count": 8055,
+    "open_issues_count": 98,
+    "forks_count": 110
   },
   {
     "id": 390407135,
     "full_name": "ThePrimeagen/vim-fundamentals",
-    "stargazers_count": 112,
+    "stargazers_count": 113,
     "open_issues_count": 2,
     "forks_count": 28
   },
   {
     "id": 12732573,
     "full_name": "junegunn/vim-plug",
-    "stargazers_count": 32281,
+    "stargazers_count": 32290,
     "open_issues_count": 132,
-    "forks_count": 1921
+    "forks_count": 1919
   },
   {
     "id": 67709808,
     "full_name": "react-native-elements/react-native-elements",
-    "stargazers_count": 24140,
+    "stargazers_count": 24150,
     "open_issues_count": 97,
-    "forks_count": 4633
+    "forks_count": 4632
   },
   {
     "id": 704618028,
     "full_name": "ZachGoldberg/Startup-CTO-Handbook",
-    "stargazers_count": 9038,
-    "open_issues_count": 3,
-    "forks_count": 407
+    "stargazers_count": 9076,
+    "open_issues_count": 4,
+    "forks_count": 413
   },
   {
     "id": 603922766,
@@ -142,22 +149,22 @@
   {
     "id": 51193526,
     "full_name": "cosmos/cosmos-sdk",
-    "stargazers_count": 5504,
-    "open_issues_count": 419,
-    "forks_count": 3066
+    "stargazers_count": 5510,
+    "open_issues_count": 414,
+    "forks_count": 3076
   },
   {
     "id": 599431918,
     "full_name": "oxc-project/oxc",
-    "stargazers_count": 3642,
-    "open_issues_count": 80,
-    "forks_count": 135
+    "stargazers_count": 3796,
+    "open_issues_count": 76,
+    "forks_count": 136
   },
   {
     "id": 16607898,
     "full_name": "harness/gitness",
-    "stargazers_count": 30511,
-    "open_issues_count": 127,
+    "stargazers_count": 30577,
+    "open_issues_count": 126,
     "forks_count": 2762
   },
   {
@@ -170,15 +177,15 @@
   {
     "id": 80087836,
     "full_name": "dgraph-io/badger",
-    "stargazers_count": 12914,
+    "stargazers_count": 12924,
     "open_issues_count": 50,
-    "forks_count": 1166
+    "forks_count": 1167
   },
   {
     "id": 605531164,
     "full_name": "emilkowalski/sonner",
-    "stargazers_count": 5127,
-    "open_issues_count": 6,
+    "stargazers_count": 5174,
+    "open_issues_count": 8,
     "forks_count": 127
   },
   {
@@ -186,27 +193,20 @@
     "full_name": "AllInOpenSource/All-In",
     "stargazers_count": 107,
     "open_issues_count": 4,
-    "forks_count": 25
+    "forks_count": 24
   },
   {
     "id": 237523442,
     "full_name": "tailscale/tailscale",
-    "stargazers_count": 14197,
-    "open_issues_count": 1652,
-    "forks_count": 1050
+    "stargazers_count": 14243,
+    "open_issues_count": 1667,
+    "forks_count": 1055
   },
   {
     "id": 106704041,
     "full_name": "cosmtrek/air",
-    "stargazers_count": 12595,
-    "open_issues_count": 106,
-    "forks_count": 736
-  },
-  {
-    "id": 356677177,
-    "full_name": "a-h/templ",
-    "stargazers_count": 2030,
-    "open_issues_count": 43,
-    "forks_count": 82
+    "stargazers_count": 12655,
+    "open_issues_count": 107,
+    "forks_count": 737
   }
 ]
