@@ -1,150 +1,171 @@
 [
   {
+    "id": 678505144,
+    "full_name": "ThePrimeagen/htmx-lsp",
+    "stargazers_count": 332,
+    "open_issues_count": 4,
+    "forks_count": 20
+  },
+  {
+    "id": 31504491,
+    "full_name": "labstack/echo",
+    "stargazers_count": 27231,
+    "open_issues_count": 77,
+    "forks_count": 2243
+  },
+  {
+    "id": 726936730,
+    "full_name": "a0m0rajab/emoji-chrome-extension",
+    "stargazers_count": 1,
+    "open_issues_count": 2,
+    "forks_count": 0
+  },
+  {
     "id": 427086759,
     "full_name": "catppuccin/tmux",
-    "stargazers_count": 573,
+    "stargazers_count": 580,
     "open_issues_count": 18,
-    "forks_count": 213
+    "forks_count": 221
   },
   {
     "id": 310062276,
     "full_name": "ThePrimeagen/harpoon",
-    "stargazers_count": 4078,
-    "open_issues_count": 21,
-    "forks_count": 256
+    "stargazers_count": 4131,
+    "open_issues_count": 22,
+    "forks_count": 258
   },
   {
     "id": 115411542,
     "full_name": "Figma-Linux/figma-linux",
-    "stargazers_count": 2379,
+    "stargazers_count": 2381,
     "open_issues_count": 121,
     "forks_count": 147
   },
   {
     "id": 262700038,
     "full_name": "ThePrimeagen/vim-be-good",
-    "stargazers_count": 2092,
+    "stargazers_count": 2105,
     "open_issues_count": 40,
-    "forks_count": 73
+    "forks_count": 75
   },
   {
     "id": 326228917,
     "full_name": "projectdiscovery/katana",
-    "stargazers_count": 7767,
+    "stargazers_count": 7778,
     "open_issues_count": 66,
-    "forks_count": 416
+    "forks_count": 421
   },
   {
     "id": 273132277,
     "full_name": "moonD4rk/HackBrowserData",
-    "stargazers_count": 9194,
+    "stargazers_count": 9211,
     "open_issues_count": 51,
-    "forks_count": 1419
+    "forks_count": 1422
   },
   {
     "id": 20904437,
     "full_name": "gin-gonic/gin",
-    "stargazers_count": 72917,
-    "open_issues_count": 767,
-    "forks_count": 7789
+    "stargazers_count": 72981,
+    "open_issues_count": 768,
+    "forks_count": 7790
   },
   {
     "id": 52555254,
     "full_name": "pressly/goose",
-    "stargazers_count": 4774,
-    "open_issues_count": 63,
-    "forks_count": 497
+    "stargazers_count": 4781,
+    "open_issues_count": 65,
+    "forks_count": 498
   },
   {
     "id": 531313322,
     "full_name": "iyear/tdl",
-    "stargazers_count": 2523,
+    "stargazers_count": 2541,
     "open_issues_count": 43,
     "forks_count": 266
   },
   {
     "id": 48378947,
     "full_name": "fatedier/frp",
-    "stargazers_count": 74658,
-    "open_issues_count": 103,
-    "forks_count": 12288
+    "stargazers_count": 74769,
+    "open_issues_count": 101,
+    "forks_count": 12304
   },
   {
     "id": 14712850,
     "full_name": "syncthing/syncthing",
-    "stargazers_count": 56626,
-    "open_issues_count": 351,
-    "forks_count": 3987
+    "stargazers_count": 56694,
+    "open_issues_count": 343,
+    "forks_count": 3996
   },
   {
     "id": 552635490,
     "full_name": "OwO-Network/DeepLX",
-    "stargazers_count": 3235,
+    "stargazers_count": 3263,
     "open_issues_count": 0,
-    "forks_count": 270
+    "forks_count": 271
   },
   {
     "id": 713106159,
     "full_name": "everywall/ladder",
-    "stargazers_count": 3585,
-    "open_issues_count": 8,
-    "forks_count": 128
+    "stargazers_count": 3705,
+    "open_issues_count": 7,
+    "forks_count": 134
   },
   {
     "id": 476405409,
     "full_name": "actualbudget/actual-server",
-    "stargazers_count": 2144,
+    "stargazers_count": 2154,
     "open_issues_count": 6,
-    "forks_count": 425
+    "forks_count": 429
   },
   {
     "id": 722534765,
     "full_name": "bgstaal/multipleWindow3dScene",
-    "stargazers_count": 12171,
+    "stargazers_count": 12353,
     "open_issues_count": 34,
-    "forks_count": 2125
+    "forks_count": 2185
   },
   {
     "id": 590007935,
     "full_name": "kodemoapp/player",
-    "stargazers_count": 655,
+    "stargazers_count": 656,
     "open_issues_count": 4,
     "forks_count": 15
   },
   {
     "id": 614933136,
     "full_name": "withastro/starlight",
-    "stargazers_count": 2413,
-    "open_issues_count": 44,
-    "forks_count": 257
+    "stargazers_count": 2446,
+    "open_issues_count": 51,
+    "forks_count": 265
   },
   {
     "id": 291438522,
     "full_name": "siyuan-note/siyuan",
-    "stargazers_count": 13392,
+    "stargazers_count": 13439,
     "open_issues_count": 71,
-    "forks_count": 1023
+    "forks_count": 1026
   },
   {
     "id": 455229168,
     "full_name": "immich-app/immich",
-    "stargazers_count": 22084,
-    "open_issues_count": 272,
-    "forks_count": 929
+    "stargazers_count": 22254,
+    "open_issues_count": 277,
+    "forks_count": 938
   },
   {
     "id": 651702652,
     "full_name": "unkeyed/unkey",
-    "stargazers_count": 1597,
-    "open_issues_count": 31,
+    "stargazers_count": 1625,
+    "open_issues_count": 25,
     "forks_count": 152
   },
   {
     "id": 486815039,
     "full_name": "actualbudget/actual",
-    "stargazers_count": 9182,
-    "open_issues_count": 112,
-    "forks_count": 763
+    "stargazers_count": 9219,
+    "open_issues_count": 125,
+    "forks_count": 765
   },
   {
     "id": 721190304,
@@ -170,16 +191,16 @@
   {
     "id": 27574418,
     "full_name": "ryanoasis/nerd-fonts",
-    "stargazers_count": 48380,
-    "open_issues_count": 32,
-    "forks_count": 3492
+    "stargazers_count": 48446,
+    "open_issues_count": 37,
+    "forks_count": 3495
   },
   {
     "id": 500289888,
     "full_name": "formbricks/formbricks",
-    "stargazers_count": 4661,
-    "open_issues_count": 39,
-    "forks_count": 729
+    "stargazers_count": 4680,
+    "open_issues_count": 37,
+    "forks_count": 730
   },
   {
     "id": 717769146,
@@ -187,26 +208,5 @@
     "stargazers_count": 2,
     "open_issues_count": 5,
     "forks_count": 0
-  },
-  {
-    "id": 513854274,
-    "full_name": "NvChad/ui",
-    "stargazers_count": 93,
-    "open_issues_count": 3,
-    "forks_count": 87
-  },
-  {
-    "id": 188601229,
-    "full_name": "love2d/love",
-    "stargazers_count": 3880,
-    "open_issues_count": 96,
-    "forks_count": 318
-  },
-  {
-    "id": 522070044,
-    "full_name": "fduran/sadservers",
-    "stargazers_count": 1396,
-    "open_issues_count": 7,
-    "forks_count": 39
   }
 ]
