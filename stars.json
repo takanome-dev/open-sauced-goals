@@ -1,17 +1,38 @@
 [
   {
+    "id": 133827809,
+    "full_name": "k1LoW/tbls",
+    "stargazers_count": 2701,
+    "open_issues_count": 29,
+    "forks_count": 150
+  },
+  {
+    "id": 374054071,
+    "full_name": "darraghoriordan/eslint-plugin-nestjs-typed",
+    "stargazers_count": 130,
+    "open_issues_count": 11,
+    "forks_count": 25
+  },
+  {
+    "id": 726862860,
+    "full_name": "0-vortex/nestjs-test-tooling",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "id": 678505144,
     "full_name": "ThePrimeagen/htmx-lsp",
-    "stargazers_count": 332,
+    "stargazers_count": 334,
     "open_issues_count": 4,
     "forks_count": 20
   },
   {
     "id": 31504491,
     "full_name": "labstack/echo",
-    "stargazers_count": 27231,
+    "stargazers_count": 27262,
     "open_issues_count": 77,
-    "forks_count": 2243
+    "forks_count": 2244
   },
   {
     "id": 726936730,
@@ -23,107 +44,107 @@
   {
     "id": 427086759,
     "full_name": "catppuccin/tmux",
-    "stargazers_count": 580,
-    "open_issues_count": 18,
-    "forks_count": 221
+    "stargazers_count": 583,
+    "open_issues_count": 20,
+    "forks_count": 225
   },
   {
     "id": 310062276,
     "full_name": "ThePrimeagen/harpoon",
-    "stargazers_count": 4131,
-    "open_issues_count": 22,
-    "forks_count": 258
+    "stargazers_count": 4175,
+    "open_issues_count": 25,
+    "forks_count": 260
   },
   {
     "id": 115411542,
     "full_name": "Figma-Linux/figma-linux",
-    "stargazers_count": 2381,
-    "open_issues_count": 121,
+    "stargazers_count": 2386,
+    "open_issues_count": 122,
     "forks_count": 147
   },
   {
     "id": 262700038,
     "full_name": "ThePrimeagen/vim-be-good",
-    "stargazers_count": 2105,
+    "stargazers_count": 2113,
     "open_issues_count": 40,
     "forks_count": 75
   },
   {
     "id": 326228917,
     "full_name": "projectdiscovery/katana",
-    "stargazers_count": 7778,
-    "open_issues_count": 66,
-    "forks_count": 421
+    "stargazers_count": 7782,
+    "open_issues_count": 68,
+    "forks_count": 422
   },
   {
     "id": 273132277,
     "full_name": "moonD4rk/HackBrowserData",
-    "stargazers_count": 9211,
+    "stargazers_count": 9228,
     "open_issues_count": 51,
     "forks_count": 1422
   },
   {
     "id": 20904437,
     "full_name": "gin-gonic/gin",
-    "stargazers_count": 72981,
+    "stargazers_count": 73037,
     "open_issues_count": 768,
-    "forks_count": 7790
+    "forks_count": 7792
   },
   {
     "id": 52555254,
     "full_name": "pressly/goose",
-    "stargazers_count": 4781,
-    "open_issues_count": 65,
-    "forks_count": 498
+    "stargazers_count": 4821,
+    "open_issues_count": 67,
+    "forks_count": 499
   },
   {
     "id": 531313322,
     "full_name": "iyear/tdl",
-    "stargazers_count": 2541,
-    "open_issues_count": 43,
-    "forks_count": 266
+    "stargazers_count": 2565,
+    "open_issues_count": 45,
+    "forks_count": 273
   },
   {
     "id": 48378947,
     "full_name": "fatedier/frp",
-    "stargazers_count": 74769,
-    "open_issues_count": 101,
-    "forks_count": 12304
+    "stargazers_count": 74892,
+    "open_issues_count": 99,
+    "forks_count": 12315
   },
   {
     "id": 14712850,
     "full_name": "syncthing/syncthing",
-    "stargazers_count": 56694,
-    "open_issues_count": 343,
-    "forks_count": 3996
+    "stargazers_count": 56784,
+    "open_issues_count": 334,
+    "forks_count": 4005
   },
   {
     "id": 552635490,
     "full_name": "OwO-Network/DeepLX",
-    "stargazers_count": 3263,
+    "stargazers_count": 3300,
     "open_issues_count": 0,
-    "forks_count": 271
+    "forks_count": 276
   },
   {
     "id": 713106159,
     "full_name": "everywall/ladder",
-    "stargazers_count": 3705,
+    "stargazers_count": 3729,
     "open_issues_count": 7,
-    "forks_count": 134
+    "forks_count": 136
   },
   {
     "id": 476405409,
     "full_name": "actualbudget/actual-server",
-    "stargazers_count": 2154,
+    "stargazers_count": 2159,
     "open_issues_count": 6,
-    "forks_count": 429
+    "forks_count": 430
   },
   {
     "id": 722534765,
     "full_name": "bgstaal/multipleWindow3dScene",
-    "stargazers_count": 12353,
+    "stargazers_count": 12597,
     "open_issues_count": 34,
-    "forks_count": 2185
+    "forks_count": 2216
   },
   {
     "id": 590007935,
@@ -135,37 +156,37 @@
   {
     "id": 614933136,
     "full_name": "withastro/starlight",
-    "stargazers_count": 2446,
-    "open_issues_count": 51,
-    "forks_count": 265
+    "stargazers_count": 2459,
+    "open_issues_count": 54,
+    "forks_count": 269
   },
   {
     "id": 291438522,
     "full_name": "siyuan-note/siyuan",
-    "stargazers_count": 13439,
-    "open_issues_count": 71,
-    "forks_count": 1026
+    "stargazers_count": 13478,
+    "open_issues_count": 79,
+    "forks_count": 1028
   },
   {
     "id": 455229168,
     "full_name": "immich-app/immich",
-    "stargazers_count": 22254,
-    "open_issues_count": 277,
-    "forks_count": 938
+    "stargazers_count": 22438,
+    "open_issues_count": 283,
+    "forks_count": 947
   },
   {
     "id": 651702652,
     "full_name": "unkeyed/unkey",
-    "stargazers_count": 1625,
-    "open_issues_count": 25,
-    "forks_count": 152
+    "stargazers_count": 1644,
+    "open_issues_count": 26,
+    "forks_count": 155
   },
   {
     "id": 486815039,
     "full_name": "actualbudget/actual",
-    "stargazers_count": 9219,
-    "open_issues_count": 125,
-    "forks_count": 765
+    "stargazers_count": 9239,
+    "open_issues_count": 124,
+    "forks_count": 766
   },
   {
     "id": 721190304,
@@ -186,27 +207,6 @@
     "full_name": "0-vortex/release",
     "stargazers_count": 6,
     "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "id": 27574418,
-    "full_name": "ryanoasis/nerd-fonts",
-    "stargazers_count": 48446,
-    "open_issues_count": 37,
-    "forks_count": 3495
-  },
-  {
-    "id": 500289888,
-    "full_name": "formbricks/formbricks",
-    "stargazers_count": 4680,
-    "open_issues_count": 37,
-    "forks_count": 730
-  },
-  {
-    "id": 717769146,
-    "full_name": "TMCB-SPACE/release",
-    "stargazers_count": 2,
-    "open_issues_count": 5,
     "forks_count": 0
   }
 ]
