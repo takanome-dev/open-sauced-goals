@@ -1,31 +1,52 @@
 [
   {
+    "id": 595662105,
+    "full_name": "gitbutlerapp/gitbutler",
+    "stargazers_count": 7175,
+    "open_issues_count": 133,
+    "forks_count": 325
+  },
+  {
+    "id": 745684491,
+    "full_name": "TMCB-SPACE/nestjs-realworld-price-collector-app",
+    "stargazers_count": 2,
+    "open_issues_count": 3,
+    "forks_count": 2
+  },
+  {
+    "id": 70089649,
+    "full_name": "jixserver/free-for-dev",
+    "stargazers_count": 2362,
+    "open_issues_count": 21,
+    "forks_count": 369
+  },
+  {
     "id": 70100622,
     "full_name": "kleampa/not-paid",
-    "stargazers_count": 12742,
+    "stargazers_count": 12834,
     "open_issues_count": 13,
-    "forks_count": 886
+    "forks_count": 889
   },
   {
     "id": 62712899,
     "full_name": "AdguardTeam/AdGuardHome",
-    "stargazers_count": 21494,
-    "open_issues_count": 1000,
-    "forks_count": 1680
+    "stargazers_count": 21630,
+    "open_issues_count": 1004,
+    "forks_count": 1685
   },
   {
     "id": 618967657,
     "full_name": "aptabase/aptabase",
-    "stargazers_count": 529,
-    "open_issues_count": 21,
+    "stargazers_count": 540,
+    "open_issues_count": 22,
     "forks_count": 30
   },
   {
     "id": 713037066,
     "full_name": "rotimi-best/classroomio",
-    "stargazers_count": 226,
-    "open_issues_count": 25,
-    "forks_count": 61
+    "stargazers_count": 232,
+    "open_issues_count": 28,
+    "forks_count": 62
   },
   {
     "id": 17810823,
@@ -37,30 +58,30 @@
   {
     "id": 360319672,
     "full_name": "folke/trouble.nvim",
-    "stargazers_count": 4206,
-    "open_issues_count": 127,
-    "forks_count": 148
+    "stargazers_count": 4226,
+    "open_issues_count": 128,
+    "forks_count": 149
   },
   {
     "id": 701796799,
     "full_name": "ThePrimeagen/js-perf-example",
-    "stargazers_count": 31,
+    "stargazers_count": 33,
     "open_issues_count": 0,
-    "forks_count": 20
+    "forks_count": 21
   },
   {
     "id": 145505138,
     "full_name": "TablePlus/DBngin",
-    "stargazers_count": 879,
+    "stargazers_count": 882,
     "open_issues_count": 65,
     "forks_count": 15
   },
   {
     "id": 712458219,
     "full_name": "siglens/siglens",
-    "stargazers_count": 455,
+    "stargazers_count": 456,
     "open_issues_count": 79,
-    "forks_count": 63
+    "forks_count": 65
   },
   {
     "id": 749926359,
@@ -72,9 +93,9 @@
   {
     "id": 83434501,
     "full_name": "retejs/rete",
-    "stargazers_count": 9400,
-    "open_issues_count": 11,
-    "forks_count": 668
+    "stargazers_count": 9414,
+    "open_issues_count": 13,
+    "forks_count": 669
   },
   {
     "id": 33545482,
@@ -86,86 +107,86 @@
   {
     "id": 112964403,
     "full_name": "gregnb/react-to-print",
-    "stargazers_count": 1826,
-    "open_issues_count": 23,
+    "stargazers_count": 1828,
+    "open_issues_count": 24,
     "forks_count": 216
   },
   {
     "id": 469828818,
     "full_name": "teamhanko/hanko",
-    "stargazers_count": 5261,
-    "open_issues_count": 65,
+    "stargazers_count": 5264,
+    "open_issues_count": 62,
     "forks_count": 811
   },
   {
     "id": 91054480,
     "full_name": "rs/zerolog",
-    "stargazers_count": 9447,
+    "stargazers_count": 9463,
     "open_issues_count": 147,
     "forks_count": 540
   },
   {
     "id": 364854508,
     "full_name": "evershopcommerce/evershop",
-    "stargazers_count": 2944,
-    "open_issues_count": 72,
-    "forks_count": 791
+    "stargazers_count": 2959,
+    "open_issues_count": 73,
+    "forks_count": 792
   },
   {
     "id": 679506386,
     "full_name": "janhq/jan",
-    "stargazers_count": 9764,
-    "open_issues_count": 191,
-    "forks_count": 515
+    "stargazers_count": 10571,
+    "open_issues_count": 190,
+    "forks_count": 576
   },
   {
     "id": 301244405,
     "full_name": "atuinsh/atuin",
-    "stargazers_count": 15758,
-    "open_issues_count": 174,
-    "forks_count": 447
+    "stargazers_count": 15831,
+    "open_issues_count": 176,
+    "forks_count": 448
   },
   {
     "id": 122728925,
     "full_name": "terkelg/prompts",
-    "stargazers_count": 8524,
+    "stargazers_count": 8532,
     "open_issues_count": 142,
     "forks_count": 327
   },
   {
     "id": 133827809,
     "full_name": "k1LoW/tbls",
-    "stargazers_count": 2958,
-    "open_issues_count": 30,
+    "stargazers_count": 2969,
+    "open_issues_count": 29,
     "forks_count": 153
   },
   {
     "id": 374054071,
     "full_name": "darraghoriordan/eslint-plugin-nestjs-typed",
-    "stargazers_count": 138,
-    "open_issues_count": 14,
+    "stargazers_count": 140,
+    "open_issues_count": 15,
     "forks_count": 26
   },
   {
     "id": 726862860,
     "full_name": "0-vortex/nestjs-test-tooling",
     "stargazers_count": 2,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "id": 678505144,
     "full_name": "ThePrimeagen/htmx-lsp",
-    "stargazers_count": 428,
+    "stargazers_count": 436,
     "open_issues_count": 5,
     "forks_count": 20
   },
   {
     "id": 31504491,
     "full_name": "labstack/echo",
-    "stargazers_count": 27907,
-    "open_issues_count": 78,
-    "forks_count": 2278
+    "stargazers_count": 27937,
+    "open_issues_count": 77,
+    "forks_count": 2279
   },
   {
     "id": 726936730,
@@ -177,36 +198,15 @@
   {
     "id": 427086759,
     "full_name": "catppuccin/tmux",
-    "stargazers_count": 758,
-    "open_issues_count": 33,
-    "forks_count": 280
+    "stargazers_count": 770,
+    "open_issues_count": 38,
+    "forks_count": 285
   },
   {
     "id": 310062276,
     "full_name": "ThePrimeagen/harpoon",
-    "stargazers_count": 4916,
-    "open_issues_count": 62,
+    "stargazers_count": 4964,
+    "open_issues_count": 63,
     "forks_count": 313
-  },
-  {
-    "id": 115411542,
-    "full_name": "Figma-Linux/figma-linux",
-    "stargazers_count": 2427,
-    "open_issues_count": 124,
-    "forks_count": 148
-  },
-  {
-    "id": 262700038,
-    "full_name": "ThePrimeagen/vim-be-good",
-    "stargazers_count": 2382,
-    "open_issues_count": 41,
-    "forks_count": 87
-  },
-  {
-    "id": 326228917,
-    "full_name": "projectdiscovery/katana",
-    "stargazers_count": 8098,
-    "open_issues_count": 71,
-    "forks_count": 441
   }
 ]
