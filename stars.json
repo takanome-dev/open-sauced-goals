@@ -1,94 +1,122 @@
 [
   {
+    "id": 62341543,
+    "full_name": "gleam-lang/gleam",
+    "stargazers_count": 13481,
+    "open_issues_count": 147,
+    "forks_count": 565
+  },
+  {
+    "id": 281769216,
+    "full_name": "ixartz/Next-js-Boilerplate",
+    "stargazers_count": 6738,
+    "open_issues_count": 1,
+    "forks_count": 1270
+  },
+  {
+    "id": 679237742,
+    "full_name": "Pythagora-io/gpt-pilot",
+    "stargazers_count": 24185,
+    "open_issues_count": 216,
+    "forks_count": 2308
+  },
+  {
+    "id": 11029192,
+    "full_name": "catchpoint/WebPageTest",
+    "stargazers_count": 3022,
+    "open_issues_count": 258,
+    "forks_count": 704
+  },
+  {
     "id": 170244456,
     "full_name": "dwarvesf/hidden",
-    "stargazers_count": 9909,
+    "stargazers_count": 9928,
     "open_issues_count": 106,
     "forks_count": 272
   },
   {
     "id": 537869276,
     "full_name": "austin-starks/NextTrade",
-    "stargazers_count": 536,
+    "stargazers_count": 540,
     "open_issues_count": 0,
     "forks_count": 102
   },
   {
     "id": 610260322,
     "full_name": "Bin-Huang/chatbox",
-    "stargazers_count": 17622,
-    "open_issues_count": 282,
-    "forks_count": 1811
+    "stargazers_count": 17706,
+    "open_issues_count": 221,
+    "forks_count": 1823
   },
   {
     "id": 599338659,
     "full_name": "cheshire-cat-ai/core",
-    "stargazers_count": 1807,
-    "open_issues_count": 31,
-    "forks_count": 226
+    "stargazers_count": 1826,
+    "open_issues_count": 35,
+    "forks_count": 230
   },
   {
     "id": 658928958,
     "full_name": "ollama/ollama",
-    "stargazers_count": 47527,
-    "open_issues_count": 623,
-    "forks_count": 3192
+    "stargazers_count": 48650,
+    "open_issues_count": 655,
+    "forks_count": 3283
   },
   {
     "id": 731293077,
     "full_name": "AugustDev/enchanted",
-    "stargazers_count": 937,
-    "open_issues_count": 9,
-    "forks_count": 68
+    "stargazers_count": 990,
+    "open_issues_count": 12,
+    "forks_count": 71
   },
   {
     "id": 670800780,
     "full_name": "formkit/tempo",
-    "stargazers_count": 1880,
-    "open_issues_count": 8,
-    "forks_count": 21
+    "stargazers_count": 1904,
+    "open_issues_count": 7,
+    "forks_count": 22
   },
   {
     "id": 244694886,
     "full_name": "ccfos/nightingale",
-    "stargazers_count": 8478,
-    "open_issues_count": 68,
-    "forks_count": 1281
+    "stargazers_count": 8495,
+    "open_issues_count": 72,
+    "forks_count": 1284
   },
   {
     "id": 127769231,
     "full_name": "DIYgod/RSSHub",
-    "stargazers_count": 28671,
-    "open_issues_count": 338,
-    "forks_count": 6485
+    "stargazers_count": 28772,
+    "open_issues_count": 333,
+    "forks_count": 6515
   },
   {
     "id": 59435364,
     "full_name": "outline/outline",
-    "stargazers_count": 23518,
-    "open_issues_count": 94,
-    "forks_count": 1918
+    "stargazers_count": 23570,
+    "open_issues_count": 91,
+    "forks_count": 1921
   },
   {
     "id": 732431229,
     "full_name": "mrzachnugent/react-native-reusables",
-    "stargazers_count": 1237,
-    "open_issues_count": 15,
-    "forks_count": 51
+    "stargazers_count": 1272,
+    "open_issues_count": 6,
+    "forks_count": 53
   },
   {
     "id": 452269390,
     "full_name": "unjs/nitro",
-    "stargazers_count": 4748,
+    "stargazers_count": 4783,
     "open_issues_count": 444,
-    "forks_count": 419
+    "forks_count": 422
   },
   {
     "id": 658364446,
     "full_name": "Lissy93/web-check",
-    "stargazers_count": 17410,
-    "open_issues_count": 25,
-    "forks_count": 1276
+    "stargazers_count": 17707,
+    "open_issues_count": 27,
+    "forks_count": 1287
   },
   {
     "id": 716796866,
@@ -100,16 +128,16 @@
   {
     "id": 575340621,
     "full_name": "lencx/ChatGPT",
-    "stargazers_count": 46269,
-    "open_issues_count": 597,
-    "forks_count": 5303
+    "stargazers_count": 46361,
+    "open_issues_count": 598,
+    "forks_count": 5313
   },
   {
     "id": 13807606,
     "full_name": "junegunn/fzf",
-    "stargazers_count": 58539,
-    "open_issues_count": 347,
-    "forks_count": 2270
+    "stargazers_count": 58646,
+    "open_issues_count": 349,
+    "forks_count": 2273
   },
   {
     "id": 123154520,
@@ -121,9 +149,9 @@
   {
     "id": 595662105,
     "full_name": "gitbutlerapp/gitbutler",
-    "stargazers_count": 9235,
-    "open_issues_count": 210,
-    "forks_count": 375
+    "stargazers_count": 9344,
+    "open_issues_count": 206,
+    "forks_count": 376
   },
   {
     "id": 745684491,
@@ -135,78 +163,50 @@
   {
     "id": 70089649,
     "full_name": "jixserver/free-for-dev",
-    "stargazers_count": 2927,
+    "stargazers_count": 2961,
     "open_issues_count": 21,
-    "forks_count": 469
+    "forks_count": 472
   },
   {
     "id": 70100622,
     "full_name": "kleampa/not-paid",
-    "stargazers_count": 13171,
+    "stargazers_count": 13202,
     "open_issues_count": 13,
-    "forks_count": 895
+    "forks_count": 897
   },
   {
     "id": 62712899,
     "full_name": "AdguardTeam/AdGuardHome",
-    "stargazers_count": 22016,
-    "open_issues_count": 1035,
-    "forks_count": 1641
+    "stargazers_count": 22083,
+    "open_issues_count": 1036,
+    "forks_count": 1646
   },
   {
     "id": 618967657,
     "full_name": "aptabase/aptabase",
-    "stargazers_count": 585,
+    "stargazers_count": 593,
     "open_issues_count": 22,
-    "forks_count": 33
+    "forks_count": 34
   },
   {
     "id": 713037066,
     "full_name": "rotimi-best/classroomio",
-    "stargazers_count": 309,
-    "open_issues_count": 36,
-    "forks_count": 67
+    "stargazers_count": 313,
+    "open_issues_count": 34,
+    "forks_count": 68
   },
   {
     "id": 17810823,
     "full_name": "zpao/qrcode.react",
-    "stargazers_count": 3643,
-    "open_issues_count": 34,
+    "stargazers_count": 3642,
+    "open_issues_count": 31,
     "forks_count": 315
   },
   {
     "id": 360319672,
     "full_name": "folke/trouble.nvim",
-    "stargazers_count": 4325,
-    "open_issues_count": 130,
-    "forks_count": 148
-  },
-  {
-    "id": 701796799,
-    "full_name": "ThePrimeagen/js-perf-example",
-    "stargazers_count": 41,
-    "open_issues_count": 0,
-    "forks_count": 23
-  },
-  {
-    "id": 145505138,
-    "full_name": "TablePlus/DBngin",
-    "stargazers_count": 892,
-    "open_issues_count": 63,
-    "forks_count": 16
-  },
-  {
-    "id": 712458219,
-    "full_name": "siglens/siglens",
-    "stargazers_count": 493,
-    "open_issues_count": 125,
-    "forks_count": 72
-  },
-  {
-    "id": 749926359,
-    "full_name": "babacarth7/gestion-de-budget",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "stargazers_count": 4338,
+    "open_issues_count": 131,
+    "forks_count": 151
   }
 ]
