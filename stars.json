@@ -1,5 +1,19 @@
 [
   {
+    "id": 790988335,
+    "full_name": "KaneDev7/application_de_budget",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "id": 79317191,
+    "full_name": "typesense/typesense",
+    "stargazers_count": 18176,
+    "open_issues_count": 504,
+    "forks_count": 556
+  },
+  {
     "id": 782001445,
     "full_name": "AlleSeck/Gym-App",
     "stargazers_count": 1,
@@ -9,23 +23,23 @@
   {
     "id": 187225547,
     "full_name": "react-native-datetimepicker/datetimepicker",
-    "stargazers_count": 2353,
-    "open_issues_count": 64,
+    "stargazers_count": 2359,
+    "open_issues_count": 66,
     "forks_count": 384
   },
   {
     "id": 790453906,
     "full_name": "takanome-dev/habit-tracker-app",
     "stargazers_count": 5,
-    "open_issues_count": 7,
+    "open_issues_count": 11,
     "forks_count": 0
   },
   {
     "id": 148149670,
     "full_name": "thecodingmachine/react-native-boilerplate",
-    "stargazers_count": 4441,
+    "stargazers_count": 4447,
     "open_issues_count": 3,
-    "forks_count": 840
+    "forks_count": 839
   },
   {
     "id": 757939044,
@@ -37,7 +51,7 @@
   {
     "id": 581584444,
     "full_name": "wesbos/hot-tips",
-    "stargazers_count": 959,
+    "stargazers_count": 960,
     "open_issues_count": 6,
     "forks_count": 157
   },
@@ -51,162 +65,148 @@
   {
     "id": 254116626,
     "full_name": "incu6us/goimports-reviser",
-    "stargazers_count": 543,
+    "stargazers_count": 544,
     "open_issues_count": 19,
     "forks_count": 70
   },
   {
     "id": 399216294,
     "full_name": "jahirfiquitiva/jahir.dev",
-    "stargazers_count": 302,
+    "stargazers_count": 305,
     "open_issues_count": 3,
     "forks_count": 30
   },
   {
     "id": 1861458,
     "full_name": "hakimel/reveal.js",
-    "stargazers_count": 66998,
+    "stargazers_count": 67015,
     "open_issues_count": 798,
     "forks_count": 16652
   },
   {
     "id": 331360188,
     "full_name": "neetcode-gh/leetcode",
-    "stargazers_count": 5105,
-    "open_issues_count": 496,
-    "forks_count": 2168
+    "stargazers_count": 5109,
+    "open_issues_count": 497,
+    "forks_count": 2166
   },
   {
     "id": 63539055,
     "full_name": "jaywcjlove/awesome-mac",
-    "stargazers_count": 71657,
+    "stargazers_count": 71748,
     "open_issues_count": 152,
-    "forks_count": 6119
+    "forks_count": 6120
   },
   {
     "id": 98339432,
     "full_name": "shoelace-style/shoelace",
-    "stargazers_count": 12090,
-    "open_issues_count": 28,
-    "forks_count": 742
+    "stargazers_count": 12095,
+    "open_issues_count": 20,
+    "forks_count": 745
   },
   {
     "id": 693262773,
     "full_name": "midday-ai/midday",
-    "stargazers_count": 2304,
+    "stargazers_count": 2358,
     "open_issues_count": 2,
-    "forks_count": 216
+    "forks_count": 221
   },
   {
     "id": 62341543,
     "full_name": "gleam-lang/gleam",
-    "stargazers_count": 15259,
-    "open_issues_count": 173,
-    "forks_count": 643
+    "stargazers_count": 15391,
+    "open_issues_count": 182,
+    "forks_count": 649
   },
   {
     "id": 281769216,
     "full_name": "ixartz/Next-js-Boilerplate",
-    "stargazers_count": 7366,
+    "stargazers_count": 7397,
     "open_issues_count": 0,
-    "forks_count": 1388
+    "forks_count": 1397
   },
   {
     "id": 679237742,
     "full_name": "Pythagora-io/gpt-pilot",
-    "stargazers_count": 28357,
-    "open_issues_count": 199,
-    "forks_count": 2819
+    "stargazers_count": 28450,
+    "open_issues_count": 198,
+    "forks_count": 2832
   },
   {
     "id": 11029192,
     "full_name": "catchpoint/WebPageTest",
-    "stargazers_count": 3029,
-    "open_issues_count": 250,
-    "forks_count": 706
+    "stargazers_count": 3030,
+    "open_issues_count": 249,
+    "forks_count": 707
   },
   {
     "id": 170244456,
     "full_name": "dwarvesf/hidden",
-    "stargazers_count": 10189,
+    "stargazers_count": 10200,
     "open_issues_count": 109,
     "forks_count": 277
   },
   {
     "id": 537869276,
     "full_name": "austin-starks/NextTrade",
-    "stargazers_count": 597,
+    "stargazers_count": 598,
     "open_issues_count": 0,
     "forks_count": 110
   },
   {
     "id": 610260322,
     "full_name": "Bin-Huang/chatbox",
-    "stargazers_count": 18695,
-    "open_issues_count": 244,
-    "forks_count": 1912
+    "stargazers_count": 18785,
+    "open_issues_count": 253,
+    "forks_count": 1921
   },
   {
     "id": 599338659,
     "full_name": "cheshire-cat-ai/core",
-    "stargazers_count": 1990,
-    "open_issues_count": 31,
-    "forks_count": 253
+    "stargazers_count": 1996,
+    "open_issues_count": 34,
+    "forks_count": 256
   },
   {
     "id": 658928958,
     "full_name": "ollama/ollama",
-    "stargazers_count": 65257,
-    "open_issues_count": 835,
-    "forks_count": 4712
+    "stargazers_count": 66306,
+    "open_issues_count": 874,
+    "forks_count": 4811
   },
   {
     "id": 731293077,
     "full_name": "AugustDev/enchanted",
-    "stargazers_count": 1672,
-    "open_issues_count": 23,
-    "forks_count": 111
+    "stargazers_count": 1718,
+    "open_issues_count": 25,
+    "forks_count": 112
   },
   {
     "id": 670800780,
     "full_name": "formkit/tempo",
-    "stargazers_count": 2097,
-    "open_issues_count": 5,
+    "stargazers_count": 2103,
+    "open_issues_count": 6,
     "forks_count": 24
   },
   {
     "id": 244694886,
     "full_name": "ccfos/nightingale",
-    "stargazers_count": 8861,
-    "open_issues_count": 77,
+    "stargazers_count": 8897,
+    "open_issues_count": 59,
     "forks_count": 1315
   },
   {
     "id": 127769231,
     "full_name": "DIYgod/RSSHub",
-    "stargazers_count": 29895,
-    "open_issues_count": 326,
-    "forks_count": 6746
+    "stargazers_count": 29941,
+    "open_issues_count": 333,
+    "forks_count": 6752
   },
   {
     "id": 59435364,
     "full_name": "outline/outline",
-    "stargazers_count": 24693,
-    "open_issues_count": 89,
-    "forks_count": 1996
-  },
-  {
-    "id": 732431229,
-    "full_name": "mrzachnugent/react-native-reusables",
-    "stargazers_count": 1733,
-    "open_issues_count": 6,
-    "forks_count": 69
-  },
-  {
-    "id": 452269390,
-    "full_name": "unjs/nitro",
-    "stargazers_count": 5117,
-    "open_issues_count": 454,
-    "forks_count": 445
+    "stargazers_count": 24774,
+    "open_issues_count": 91,
+    "forks_count": 2001
   }
 ]
